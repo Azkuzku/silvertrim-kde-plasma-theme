@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "aake.taskila@gmail.com",
+                "Name": "heliospah"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "A nice glossy theme.",
+        "EnabledByDefault": true,
+        "Id": "silvertrim-plasma",
+        "License": "GPLv3",
+        "Name": "silvertrim",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": "www.github.com/Azkuzku"
+    }
+}

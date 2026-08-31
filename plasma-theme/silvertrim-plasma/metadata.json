@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "heliospah"
+            }
+        ],
+        "Category": "Plasma Theme",
+                "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "Description": "A nice dark glossy silver theme",
+        "EnabledByDefault": true,
+        "Id": "silvertrim-plasma",
+        "License": "GPL-2.0+",
+        "Name": "silvertrim",
+        "Version": "1.0",
+        "Website": "trugictra.neocities.org"
+    },
+    "X-Plasma-API": "5.0"
+}

@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="8.2142637"
-     inkscape:cx="40.965327"
-     inkscape:cy="11.13916"
-     inkscape:window-width="1920"
-     inkscape:window-height="990"
+     inkscape:cx="23.495715"
+     inkscape:cy="19.356574"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -276,7 +276,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:5.89897;-inkscape-stroke:none"
+         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:0.84852815;stroke:#ff9c9c;stroke-opacity:1;stroke-dasharray:none"
          id="path15"
          cx="-35.355339"
          cy="-5.713423e-07"
@@ -342,7 +342,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient36);fill-opacity:1;stroke-width:5.89897;-inkscape-stroke:none"
+         style="fill:url(#linearGradient36);fill-opacity:1;stroke-width:0.84852815;stroke:#fff9f9;stroke-opacity:1;stroke-dasharray:none"
          id="path15-6"
          cx="-35.355339"
          cy="-5.713423e-07"
@@ -404,7 +404,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient24-3);fill-opacity:1;stroke-width:5.89897;-inkscape-stroke:none"
+         style="fill:url(#linearGradient24-3);fill-opacity:1;stroke-width:0.84852815;stroke:#480000;stroke-opacity:1;stroke-dasharray:none"
          id="path15-9"
          cx="-35.355339"
          cy="-5.713423e-07"

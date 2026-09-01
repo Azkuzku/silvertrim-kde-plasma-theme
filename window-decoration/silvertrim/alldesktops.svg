@@ -26,14 +26,14 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="5.8083616"
-     inkscape:cx="19.540795"
-     inkscape:cy="23.500603"
-     inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:cx="19.626877"
+     inkscape:cy="23.586686"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="hover-center">
+     inkscape:current-layer="pressed-center">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -244,7 +244,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:5.89897;-inkscape-stroke:none"
+         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:0.84852815;stroke-dasharray:none;stroke:#cdcdcd;stroke-opacity:1"
          id="path15"
          cx="-35.355339"
          cy="-5.713423e-07"
@@ -310,7 +310,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient36);fill-opacity:1;stroke-width:5.89897;-inkscape-stroke:none"
+         style="fill:url(#linearGradient36);fill-opacity:1;stroke-width:0.84852815;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none"
          id="path15-6"
          cx="-35.355339"
          cy="-5.713423e-07"
@@ -372,7 +372,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient24-3);fill-opacity:1;stroke-width:5.89897;-inkscape-stroke:none"
+         style="fill:url(#linearGradient24-3);fill-opacity:1;stroke-width:0.84852815;stroke-dasharray:none;stroke:#686868;stroke-opacity:1"
          id="path15-9"
          cx="-35.355339"
          cy="-5.713423e-07"

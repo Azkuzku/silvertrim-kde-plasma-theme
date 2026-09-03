@@ -11,8 +11,8 @@ InactiveTextShadowColor=0,0,0,255
 Shadow=True
 
 [Layout]
-PaddingBottom=16
-PaddingTop=16
+PaddingBottom=17
+PaddingTop=17
 ButtonWidth=32
 ButtonHeight=32
 TitleHeight=32

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12mm"
+   height="12mm"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="utilities-terminal.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="29.786873"
+     inkscape:cy="18.119611"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.27228251"
+         id="stop3" />
+      <stop
+         style="stop-color:#616161;stop-opacity:1;"
+         offset="1"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="5.9999995"
+       y1="0"
+       x2="5.9999995"
+       y2="11.999999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9656653,0,0,0.9656653,0.20600789,0.20600789)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10"
+       x="-0.08836205"
+       y="-0.08836205"
+       width="1.1767241"
+       height="1.1767241">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4266408"
+         id="feGaussianBlur10" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1"
+       x="-0.11471564"
+       y="-0.22821147"
+       width="1.2294313"
+       height="1.4564229">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.33530729"
+         id="feGaussianBlur1" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g9"
+     transform="translate(0,-0.20040292)">
+    <path
+       style="mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.549809;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10)"
+       id="rect1"
+       width="11.587983"
+       height="11.587983"
+       x="0.2060079"
+       y="0.2060079"
+       inkscape:path-effect="#path-effect1"
+       sodipodi:type="rect"
+       d="m 1.2643412,0.2060079 h 9.4713168 a 1.0583333,1.0583333 45 0 1 1.058333,1.0583333 v 9.4713168 a 1.0583333,1.0583333 135 0 1 -1.058333,1.058333 H 1.2643412 A 1.0583333,1.0583333 45 0 1 0.2060079,10.735658 V 1.2643412 A 1.0583333,1.0583333 135 0 1 1.2643412,0.2060079 Z"
+       transform="matrix(0.81184932,-0.1438476,-0.05111365,0.7007773,1.4355859,3.1591186)" />
+    <path
+       style="fill:url(#linearGradient2);stroke:#ffffff;stroke-width:0.549809;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       width="11.587983"
+       height="11.587983"
+       x="0.2060079"
+       y="0.2060079"
+       inkscape:path-effect="#path-effect10"
+       sodipodi:type="rect"
+       d="m 1.2643412,0.2060079 h 9.4713168 a 1.0583333,1.0583333 45 0 1 1.058333,1.0583333 v 9.4713168 a 1.0583333,1.0583333 135 0 1 -1.058333,1.058333 H 1.2643412 A 1.0583333,1.0583333 45 0 1 0.2060079,10.735658 V 1.2643412 A 1.0583333,1.0583333 135 0 1 1.2643412,0.2060079 Z"
+       transform="matrix(0.81184932,-0.1438476,-0.05111365,0.70077731,1.3482304,2.6661006)" />
+    <path
+       d="M 4.7956841,6.1389209 2.9733466,7.7355702 3.0661799,8.2595038 5.2769342,6.3238417 5.184101,5.7999081 2.442871,4.7416638 2.5357043,5.2655974 Z M 6.2066377,7.8188578 6.286209,8.2679437 9.4579344,7.7059612 9.3783631,7.2568753 Z"
+       id="text1"
+       style="-inkscape-font-specification:'Two Weekend Go';fill:#ffffff;stroke-width:0.381761"
+       aria-label="&gt;_" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1"
+       id="use1"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.619271;filter:url(#filter1)" />
+  </g>
+</svg>

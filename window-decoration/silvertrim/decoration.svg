@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="5.6568546"
-     inkscape:cx="41.100579"
-     inkscape:cy="22.892581"
+     inkscape:zoom="8.0000005"
+     inkscape:cx="19.437499"
+     inkscape:cy="37.687498"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="992"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="decoration-bottomright"
+     inkscape:current-layer="decoration-top"
      showborder="true">
     <inkscape:grid
        id="grid1"
@@ -196,11 +196,11 @@
          offset="0.01313364"
          id="stop55" />
       <stop
-         style="stop-color:#c1c1c1;stop-opacity:0.86274511;"
+         style="stop-color:#ffffff;stop-opacity:0.36862746;"
          offset="0.07488479"
          id="stop2" />
       <stop
-         style="stop-color:#343434;stop-opacity:0.89999998;"
+         style="stop-color:#343434;stop-opacity:0.72156864;"
          offset="0.5"
          id="stop56" />
       <stop
@@ -220,11 +220,11 @@
          offset="0.01036866"
          id="stop51" />
       <stop
-         style="stop-color:#c1c1c1;stop-opacity:0.86274511;"
+         style="stop-color:#ffffff;stop-opacity:0.36681223;"
          offset="0.06912442"
          id="stop1" />
       <stop
-         style="stop-color:#343434;stop-opacity:0.89999998;"
+         style="stop-color:#343434;stop-opacity:0.72227073;"
          offset="0.5"
          id="stop52" />
       <stop

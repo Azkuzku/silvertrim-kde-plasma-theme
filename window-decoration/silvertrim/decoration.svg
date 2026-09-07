@@ -26,14 +26,14 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="8.0000005"
-     inkscape:cx="19.437499"
-     inkscape:cy="37.687498"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:cx="27.812498"
+     inkscape:cy="4.2499997"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="decoration-top"
+     inkscape:current-layer="decoration-bottomright"
      showborder="true">
     <inkscape:grid
        id="grid1"
@@ -184,7 +184,7 @@
          offset="0.75"
          id="stop61" />
       <stop
-         style="stop-color:#5b5b5b;stop-opacity:0.63999999;"
+         style="stop-color:#5b5b5b;stop-opacity:0.27450982;"
          offset="1"
          id="stop62" />
     </linearGradient>
@@ -196,7 +196,7 @@
          offset="0.01313364"
          id="stop55" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.36862746;"
+         style="stop-color:#ffffff;stop-opacity:0.18039216;"
          offset="0.07488479"
          id="stop2" />
       <stop
@@ -204,11 +204,11 @@
          offset="0.5"
          id="stop56" />
       <stop
-         style="stop-color:#303030;stop-opacity:0.69999999;"
+         style="stop-color:#303030;stop-opacity:0.47843137;"
          offset="0.75"
          id="stop57" />
       <stop
-         style="stop-color:#5b5b5b;stop-opacity:0.63999999;"
+         style="stop-color:#5b5b5b;stop-opacity:0.27450982;"
          offset="1"
          id="stop58" />
     </linearGradient>
@@ -220,7 +220,7 @@
          offset="0.01036866"
          id="stop51" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.36681223;"
+         style="stop-color:#ffffff;stop-opacity:0.17847614;"
          offset="0.06912442"
          id="stop1" />
       <stop
@@ -228,11 +228,11 @@
          offset="0.5"
          id="stop52" />
       <stop
-         style="stop-color:#303030;stop-opacity:0.69999999;"
+         style="stop-color:#303030;stop-opacity:0.47830936;"
          offset="0.75"
          id="stop53" />
       <stop
-         style="stop-color:#5b5b5b;stop-opacity:0.63999999;"
+         style="stop-color:#5b5b5b;stop-opacity:0.27257153;"
          offset="1"
          id="stop54" />
     </linearGradient>
@@ -376,7 +376,7 @@
          offset="0.75"
          id="stop6" />
       <stop
-         style="stop-color:#5b5b5b;stop-opacity:0.63999999;"
+         style="stop-color:#5b5b5b;stop-opacity:0.27450982;"
          offset="1"
          id="stop4" />
     </linearGradient>
@@ -692,7 +692,7 @@
        transform="matrix(0.20000005,0,0,1,68.999993,27)"
        style="stroke-width:2.23607">
       <rect
-         style="fill:#5c5c5c;fill-opacity:0.64;stroke-width:2.05649;-inkscape-stroke:none"
+         style="fill:#5b5b5b;fill-opacity:0.27450982;stroke-width:2.05649;-inkscape-stroke:none"
          id="rect15"
          width="25"
          height="20.000002"

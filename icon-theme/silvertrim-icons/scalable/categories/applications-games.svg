@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="10.287845"
-     inkscape:cx="18.371194"
-     inkscape:cy="36.888192"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="7.2601115"
+     inkscape:cx="14.531457"
+     inkscape:cy="41.046202"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -97,7 +97,7 @@
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.30542341"
          id="stop25" /><stop
-         style="stop-color:#606060;stop-opacity:1;"
+         style="stop-color:#9f9f9f;stop-opacity:1;"
          offset="1"
          id="stop26" /></linearGradient><linearGradient
        id="linearGradient24"
@@ -105,7 +105,7 @@
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.1094196"
          id="stop22" /><stop
-         style="stop-color:#606060;stop-opacity:1;"
+         style="stop-color:#9f9f9f;stop-opacity:1;"
          offset="0.2773549"
          id="stop23" /><stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -116,7 +116,7 @@
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.12178877"
          id="stop19" /><stop
-         style="stop-color:#606060;stop-opacity:1;"
+         style="stop-color:#9f9f9f;stop-opacity:1;"
          offset="0.23644148"
          id="stop21" /><stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -127,7 +127,7 @@
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.10846812"
          id="stop14" /><stop
-         style="stop-color:#606060;stop-opacity:1;"
+         style="stop-color:#9f9f9f;stop-opacity:1;"
          offset="0.27925786"
          id="stop16" /><stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -138,7 +138,7 @@
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.31113225"
          id="stop11" /><stop
-         style="stop-color:#606060;stop-opacity:1;"
+         style="stop-color:#9f9f9f;stop-opacity:1;"
          offset="1"
          id="stop12" /></linearGradient><inkscape:path-effect
        effect="fillet_chamfer"

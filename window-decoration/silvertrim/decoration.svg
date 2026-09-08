@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="8.0000005"
-     inkscape:cx="27.812498"
-     inkscape:cy="4.2499997"
+     inkscape:zoom="9.8814765"
+     inkscape:cx="23.528872"
+     inkscape:cy="34.306614"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="decoration-bottomright"
+     inkscape:current-layer="decoration-topright"
      showborder="true">
     <inkscape:grid
        id="grid1"
@@ -52,6 +52,18 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient16"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#808080;stop-opacity:0.5216195;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.74530834"
+         id="stop10" />
+    </linearGradient>
     <linearGradient
        id="linearGradient81"
        inkscape:collect="always">
@@ -196,11 +208,11 @@
          offset="0.01313364"
          id="stop55" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.18039216;"
+         style="stop-color:#ffffff;stop-opacity:0.3764706;"
          offset="0.07488479"
          id="stop2" />
       <stop
-         style="stop-color:#343434;stop-opacity:0.72156864;"
+         style="stop-color:#000000;stop-opacity:0.50588238;"
          offset="0.5"
          id="stop56" />
       <stop
@@ -220,11 +232,11 @@
          offset="0.01036866"
          id="stop51" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.17847614;"
+         style="stop-color:#ffffff;stop-opacity:0.37789395;"
          offset="0.06912442"
          id="stop1" />
       <stop
-         style="stop-color:#343434;stop-opacity:0.72227073;"
+         style="stop-color:#000000;stop-opacity:0.50491261;"
          offset="0.5"
          id="stop52" />
       <stop
@@ -422,7 +434,7 @@
        y2="14" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient23"
+       xlink:href="#linearGradient16"
        id="linearGradient24"
        x1="82.499992"
        y1="11"
@@ -676,7 +688,7 @@
          ry="0" />
       <path
          id="rect11"
-         style="fill:#808080;stroke-width:7.77259"
+         style="fill:#808080;stroke-width:7.77259;fill-opacity:0.52156866"
          d="m 35.000012,18 h 14.999997 l 9.999992,2 H 55.000008 L 50.000009,19 H 35.000012 Z"
          sodipodi:nodetypes="ccccccc" />
       <path
@@ -788,7 +800,7 @@
          x="49.999996"
          y="7" />
       <rect
-         style="fill:#808080;fill-opacity:1;stroke-width:3.476;-inkscape-stroke:none"
+         style="fill:#808080;fill-opacity:0.52156866;stroke-width:3.476;-inkscape-stroke:none"
          id="rect18"
          width="20"
          height="1"

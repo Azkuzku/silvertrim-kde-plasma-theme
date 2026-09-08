@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="3.7817199"
-     inkscape:cx="15.336937"
-     inkscape:cy="69.148433"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:cx="15.204722"
+     inkscape:cy="55.265859"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g14">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -240,9 +240,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;filter:url(#filter18)">
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;filter:url(#filter18)"
+     transform="translate(0.92712493)">
     <rect
-       style="fill:none;stroke:none;stroke-width:0.466667;stroke-linejoin:bevel;stroke-opacity:1;fill-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.466667;stroke-linejoin:bevel;stroke-opacity:1"
        id="rect10"
        width="14.000001"
        height="14.000001"
@@ -261,7 +262,7 @@
        transform="matrix(1.1666667,0,0,1.1666667,-1.0000004,-1.0000004)" />
     <path
        id="rect1"
-       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        d="M 4.3741774,3.6258227 5.6258226,2.3741774 A 0.21918798,0.21918798 22.499998 0 1 5.9999999,2.5291667 V 9.4708334 A 0.219188,0.219188 157.5 0 1 5.6258226,9.6258227 L 4.3741774,8.3741775 A 1.2775213,1.2775213 67.5 0 1 4.0000001,7.4708336 V 4.5291668 A 1.2775214,1.2775214 112.5 0 1 4.3741774,3.6258227 Z"
        sodipodi:nodetypes="ccccc"
        inkscape:path-effect="#path-effect3"
@@ -271,7 +272,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="g14">
+     id="g14"
+     transform="translate(0.92712493)">
     <rect
        style="fill:none;stroke:none;stroke-width:0.466667;stroke-linejoin:bevel"
        id="rect11"

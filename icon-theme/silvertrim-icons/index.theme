@@ -3,7 +3,7 @@ Name=silvertrim
 Description=An accompanying icon theme to the silvertrim Plasma theme.
 Example=folder
 Directories=scalable/actions,scalable/apps,scalable/places,scalable/places/48,scalable/mimetypes,scalable/mimetypes/48,scalable/categories,scalable/devices,scalable/status,scalable/emblems,scalable/preferences
-Inherits=breeze-dark,gnome,hicolor
+Inherits=breeze,gnome,hicolor
 
 [scalable/actions]
 Size=22

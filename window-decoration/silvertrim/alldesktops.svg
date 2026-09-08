@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="5.8083616"
-     inkscape:cx="19.626877"
-     inkscape:cy="23.586686"
-     inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:cx="25.997004"
+     inkscape:cy="36.413022"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -111,8 +111,8 @@
          offset="0.5"
          id="stop24" />
       <stop
-         style="stop-color:#dadada;stop-opacity:1;"
-         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.90030211"
          id="stop23" />
     </linearGradient>
     <filter
@@ -244,7 +244,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:0.84852815;stroke-dasharray:none;stroke:#cdcdcd;stroke-opacity:1"
+         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:1.35764504;stroke-dasharray:none;stroke:#cdcdcd;stroke-opacity:1"
          id="path15"
          cx="-35.355339"
          cy="-5.713423e-07"
@@ -310,7 +310,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient36);fill-opacity:1;stroke-width:0.84852815;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:url(#linearGradient36);fill-opacity:1;stroke-width:1.35764504;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none"
          id="path15-6"
          cx="-35.355339"
          cy="-5.713423e-07"
@@ -372,7 +372,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient24-3);fill-opacity:1;stroke-width:0.84852815;stroke-dasharray:none;stroke:#686868;stroke-opacity:1"
+         style="fill:url(#linearGradient24-3);fill-opacity:1;stroke-width:1.35764504;stroke-dasharray:none;stroke:#686868;stroke-opacity:1"
          id="path15-9"
          cx="-35.355339"
          cy="-5.713423e-07"

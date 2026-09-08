@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="9.8814765"
-     inkscape:cx="23.528872"
-     inkscape:cy="34.306614"
+     inkscape:zoom="7.4420532"
+     inkscape:cx="35.138152"
+     inkscape:cy="-19.215127"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="decoration-topright"
+     inkscape:current-layer="decoration-maximized-center"
      showborder="true">
     <inkscape:grid
        id="grid1"
@@ -247,26 +247,6 @@
          style="stop-color:#5b5b5b;stop-opacity:0.27257153;"
          offset="1"
          id="stop54" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient50"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.83173734;"
-         offset="0"
-         id="stop47" />
-      <stop
-         style="stop-color:#343434;stop-opacity:0.89999998;"
-         offset="0.5"
-         id="stop48" />
-      <stop
-         style="stop-color:#303030;stop-opacity:0.69731259;"
-         offset="0.75"
-         id="stop49" />
-      <stop
-         style="stop-color:#5b5b5b;stop-opacity:0.64073551;"
-         offset="1"
-         id="stop50" />
     </linearGradient>
     <linearGradient
        id="linearGradient39"
@@ -514,16 +494,6 @@
        y2="14" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient50"
-       id="linearGradient40"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4999998,0,0,0.76923071,-85.999981,-75.769224)"
-       x1="59.999992"
-       y1="14"
-       x2="79.999992"
-       y2="14" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient27"
        id="linearGradient41"
        gradientUnits="userSpaceOnUse"
@@ -612,6 +582,16 @@
        y1="14"
        x2="65"
        y2="22" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54"
+       id="linearGradient2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4999998,0,0,0.76923071,-65.999981,-70.769231)"
+       x1="46.66666"
+       y1="7.5000005"
+       x2="66.666664"
+       y2="7.5000005" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -828,14 +808,14 @@
        inkscape:label="decoration-maximized-center"
        transform="translate(4.999995,-45)">
       <rect
-         style="fill:#808080;fill-opacity:1;stroke-width:3.476;-inkscape-stroke:none"
+         style="fill:#808080;fill-opacity:0.52156866;stroke-width:3.476;-inkscape-stroke:none"
          id="rect18-7"
          width="20"
          height="1"
          x="55"
          y="3" />
       <rect
-         style="fill:url(#linearGradient40);stroke-width:0.919689;-inkscape-stroke:none"
+         style="fill:url(#linearGradient2);stroke-width:0.919689;-inkscape-stroke:none;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect19-6"
          width="30"
          height="19.999998"

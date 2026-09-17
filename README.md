@@ -7,7 +7,7 @@ I highly recommend using the Oxygen sound theme with it.
 # Installation
 1. Download/clone the source code (latest update of the theme)
 ```
-$ git clone https://github.com/Azkuzku/silvertrim-kde-plasma-theme/
+git clone https://github.com/Azkuzku/silvertrim-kde-plasma-theme/
 ```
 2. Once you have the folder somewhere, run the install script.
 ```

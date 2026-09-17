@@ -7,6 +7,9 @@ ColorScheme=Silvertrim
 [kdeglobals][KDE]
 widgetStyle=Fusion
 
+[kdeglobals][Icons]
+Theme=silvertrim-icons
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 

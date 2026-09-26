@@ -12,7 +12,7 @@ Shadow=True
 
 [Layout]
 PaddingBottom=17
-PaddingTop=17
+PaddingTop=16
 ButtonWidth=32
 ButtonHeight=32
 TitleHeight=32

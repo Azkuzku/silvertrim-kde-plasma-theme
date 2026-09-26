@@ -11,11 +11,11 @@ InactiveTextShadowColor=0,0,0,255
 Shadow=True
 
 [Layout]
-PaddingBottom=17
-PaddingTop=16
-ButtonWidth=32
-ButtonHeight=32
-TitleHeight=32
+PaddingBottom=18
+PaddingTop=17
+ButtonWidth=36
+ButtonHeight=36
+TitleHeight=36
 TitleEdgeTop=0
 TitleEdgeBottom=0
 TitleEdgeLeft=8

@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.1635201"
-     inkscape:cx="30.274737"
-     inkscape:cy="131.96088"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="1.9956112"
+     inkscape:cx="21.296733"
+     inkscape:cy="115.75401"
+     inkscape:window-width="1600"
+     inkscape:window-height="824"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,6 +51,23 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.52916665,0,1 @ F,0,0,1,0,0.52916665,0,1 @ F,0,0,1,0,0.52916665,0,1 @ F,0,0,1,0,0.52916665,0,1"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient33"
        inkscape:collect="always">
@@ -59,7 +76,7 @@
          offset="0.29326189"
          id="stop33" />
       <stop
-         style="stop-color:#595959;stop-opacity:1;"
+         style="stop-color:#008c8c;stop-opacity:1;"
          offset="0.64931089"
          id="stop35" />
       <stop
@@ -75,11 +92,11 @@
          offset="0.09571209"
          id="stop31" />
       <stop
-         style="stop-color:#898989;stop-opacity:1;"
+         style="stop-color:#008c8c;stop-opacity:1;"
          offset="0.25191423"
          id="stop4" />
       <stop
-         style="stop-color:#cbcbcb;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
          id="stop32" />
     </linearGradient>
@@ -141,15 +158,15 @@
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         id="stop8" />
+         id="stop9" />
       <stop
          style="stop-color:#878787;stop-opacity:1;"
-         offset="0.10986069"
+         offset="0.89013931"
          id="stop10" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
-         id="stop9" />
+         id="stop8" />
     </linearGradient>
     <linearGradient
        id="linearGradient1"
@@ -234,7 +251,7 @@
        x1="12"
        y1="7.9999995"
        x2="12"
-       y2="14"
+       y2="14.543023"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(5.7220457e-7,-0.99999851)" />
     <linearGradient
@@ -312,7 +329,7 @@
        y="13.000001" />
   </g>
   <rect
-     style="fill:url(#linearGradient34);fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:url(#linearGradient34);fill-opacity:1;fill-rule:nonzero;stroke:#008c8c;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
      id="rect45"
      width="14"
      height="8.8000011"
@@ -324,22 +341,25 @@
      inkscape:groupmode="layer"
      id="g45">
     <rect
-       style="fill:url(#linearGradient32);fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient32);fill-opacity:1;fill-rule:nonzero;stroke:#008c8c;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
        id="rect40"
        width="14"
        height="5.9999986"
        x="5.0000005"
        y="7.000001"
        rx="0.69999999" />
-    <rect
-       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient27);stroke:url(#linearGradient9);stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+    <path
+       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient27);stroke:url(#linearGradient9);stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
        id="rect41"
        width="10"
        height="6.9999986"
        x="7"
-       y="4.000001" />
+       y="4.000001"
+       inkscape:path-effect="#path-effect1"
+       sodipodi:type="rect"
+       d="M 7.5291666,4.000001 H 16.470833 A 0.52916665,0.52916665 45 0 1 17,4.5291676 V 10.470833 A 0.52916665,0.52916665 135 0 1 16.470833,11 H 7.5291666 A 0.52916665,0.52916665 45 0 1 7,10.470833 V 4.5291676 A 0.52916665,0.52916665 135 0 1 7.5291666,4.000001 Z" />
     <rect
-       style="fill:url(#linearGradient23);fill-rule:nonzero;stroke:url(#linearGradient2);stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient23);fill-rule:nonzero;stroke:url(#linearGradient2);stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
        id="rect42"
        width="10"
        height="4"

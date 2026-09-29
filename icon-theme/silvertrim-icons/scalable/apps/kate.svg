@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="6.326148"
-     inkscape:cx="0.6322963"
-     inkscape:cy="19.680222"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="1.9891293"
+     inkscape:cx="-31.169417"
+     inkscape:cy="67.36616"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -233,7 +233,7 @@
          offset="0"
          id="stop1" />
       <stop
-         style="stop-color:#969696;stop-opacity:1;"
+         style="stop-color:#b0b0b0;stop-opacity:1;"
          offset="0.33089042"
          id="stop3" />
       <stop
@@ -301,10 +301,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1"
-       x="-0.048943147"
-       y="-0.092296447"
-       width="1.0978863"
-       height="1.1845929">
+       x="-0.048188633"
+       y="-0.087373368"
+       width="1.0963773"
+       height="1.1747467">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.076913635"
@@ -394,19 +394,19 @@
        y="0"
        xlink:href="#text5"
        id="use1"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter1);opacity:0.5"
-       transform="translate(0,0.19959069)" />
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter1)"
+       transform="translate(0,0.23730969)" />
     <text
        xml:space="preserve"
-       style="font-size:2.65604px;font-family:'Two Weekend Go';-inkscape-font-specification:'Two Weekend Go';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linejoin:round;stroke-opacity:1"
-       x="2.8725102"
-       y="3.9840639"
+       style="font-size:3.15798px;font-family:'Two Weekend Go';-inkscape-font-specification:'Two Weekend Go';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.314584;stroke-linejoin:round;stroke-opacity:1"
+       x="2.8993638"
+       y="4.3148441"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
-         style="font-size:2.65604px;stroke:none;stroke-width:0.264583"
-         x="2.8725102"
-         y="3.9840639">txt</tspan></text>
+         style="font-size:3.15798px;stroke:none;stroke-width:0.314584"
+         x="2.8993638"
+         y="4.3148441">txt</tspan></text>
     <g
        id="g22"
        transform="rotate(38.359141,9.4623848,0.03749437)"

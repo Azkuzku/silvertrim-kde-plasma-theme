@@ -7,7 +7,7 @@
    viewBox="0 0 12 12"
    version="1.1"
    id="svg1"
-   sodipodi:docname="applications-development.svg"
+   sodipodi:docname="utilities-terminal.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="28.125"
-     inkscape:cy="22.4375"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="5.6604064"
+     inkscape:cx="25.086538"
+     inkscape:cy="22.436552"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,8 +56,8 @@
        id="path-effect10"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1"
-       radius="4"
+       nodesatellites_param="F,0,0,1,0,3.1921274,0,1 @ F,0,0,1,0,3.1921274,0,1 @ F,0,0,1,0,3.1921274,0,1 @ F,0,0,1,0,3.1921274,0,1"
+       radius="9"
        unit="px"
        method="auto"
        mode="F"
@@ -73,8 +73,8 @@
        id="path-effect1"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1"
-       radius="4"
+       nodesatellites_param="F,0,0,1,0,3.1921275,0,1 @ F,0,0,1,0,3.1921275,0,1 @ F,0,0,1,0,3.1921275,0,1 @ F,0,0,1,0,3.1921275,0,1"
+       radius="9"
        unit="px"
        method="auto"
        mode="F"
@@ -128,10 +128,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1"
-       x="-0.12593112"
-       y="-0.19425271"
-       width="1.2518622"
-       height="1.3885054">
+       x="-0.11798374"
+       y="-0.18199362"
+       width="1.2359675"
+       height="1.3639872">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.33530729"
@@ -152,8 +152,8 @@
        y="0.2060079"
        inkscape:path-effect="#path-effect1"
        sodipodi:type="rect"
-       d="m 1.2643412,0.2060079 h 9.4713168 a 1.0583333,1.0583333 45 0 1 1.058333,1.0583333 v 9.4713168 a 1.0583333,1.0583333 135 0 1 -1.058333,1.058333 H 1.2643412 A 1.0583333,1.0583333 45 0 1 0.2060079,10.735658 V 1.2643412 A 1.0583333,1.0583333 135 0 1 1.2643412,0.2060079 Z"
-       transform="matrix(0.82449466,0,0,0.68111174,1.0530319,2.4140264)" />
+       d="m 3.3981354,0.2060079 5.2037281,0 a 3.1921275,3.1921275 45 0 1 3.1921275,3.1921275 l 0,5.2037281 A 3.1921275,3.1921275 135 0 1 8.6018635,11.793991 l -5.2037281,0 A 3.1921275,3.1921275 45 0 1 0.2060079,8.6018635 l 0,-5.2037281 A 3.1921275,3.1921275 135 0 1 3.3981354,0.2060079 Z"
+       transform="matrix(0.88003263,0,0,0.72699144,0.7198041,2.1387482)" />
     <path
        style="fill:url(#linearGradient2);stroke:#ffffff;stroke-width:0.549809;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
@@ -163,12 +163,12 @@
        y="0.2060079"
        inkscape:path-effect="#path-effect10"
        sodipodi:type="rect"
-       d="m 1.2643412,0.2060079 h 9.4713168 a 1.0583333,1.0583333 45 0 1 1.058333,1.0583333 v 9.4713168 a 1.0583333,1.0583333 135 0 1 -1.058333,1.058333 H 1.2643412 A 1.0583333,1.0583333 45 0 1 0.2060079,10.735658 V 1.2643412 A 1.0583333,1.0583333 135 0 1 1.2643412,0.2060079 Z"
-       transform="matrix(0.82449466,0,0,0.68111175,1.0530319,1.9133292)" />
+       d="M 3.3981353,0.2060079 H 8.6018636 A 3.1921274,3.1921274 45 0 1 11.793991,3.3981353 V 8.6018636 A 3.1921274,3.1921274 135 0 1 8.6018636,11.793991 H 3.3981353 A 3.1921274,3.1921274 45 0 1 0.2060079,8.6018636 V 3.3981353 A 3.1921274,3.1921274 135 0 1 3.3981353,0.2060079 Z"
+       transform="matrix(0.88003263,0,0,0.72699145,0.7198041,1.6043241)" />
     <path
-       d="M 4.8772729,5.9343555 2.8043212,7.188578 V 7.7206724 L 5.3188793,6.2004027 V 5.6683083 L 2.8043212,4.1480386 V 4.680133 Z M 5.973492,7.8346927 V 8.2907736 H 9.1946201 V 7.8346927 Z"
+       d="M 4.801646,5.8962068 2.5890603,7.2349137 V 7.80285 L 5.272999,6.1801749 V 5.6122386 L 2.5890603,3.9895635 V 4.5574998 Z M 5.9717065,7.9245507 V 8.4113532 H 9.4098098 V 7.9245507 Z"
        id="text1"
-       style="-inkscape-font-specification:'Two Weekend Go';fill:#ffffff;stroke-width:0.381761"
+       style="-inkscape-font-specification:'Two Weekend Go';fill:#ffffff;stroke-width:0.407476"
        aria-label="&gt;_" />
     <use
        x="0"

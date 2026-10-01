@@ -26,10 +26,10 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.5922025"
-     inkscape:cx="-76.937448"
-     inkscape:cy="68.772658"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:cx="-5.0244865"
+     inkscape:cy="90.440757"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
          id="rect4"
          x="0"
          y="0"
-         style="fill:url(#linearGradient2);stroke:#0a3d91;stroke-width:39.4417;stroke-dasharray:none;stroke-opacity:1" /><path
+         style="fill:url(#linearGradient2);stroke:#00173d;stroke-width:39.4417;stroke-dasharray:none;stroke-opacity:1" /><path
          d="M 157,330 462,637 315,815 V 179 L 462,349 157,648"
          stroke="#ffffff"
          stroke-width="53"

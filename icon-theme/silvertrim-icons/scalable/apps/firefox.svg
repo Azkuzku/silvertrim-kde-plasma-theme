@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.7832132"
-     inkscape:cx="-48.788333"
-     inkscape:cy="98.698237"
+     inkscape:zoom="0.71091669"
+     inkscape:cx="4.2199037"
+     inkscape:cy="281.32691"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -56,7 +56,7 @@
        inkscape:collect="always">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.54255319"
+         offset="0.45687076"
          id="stop5" />
       <stop
          style="stop-color:#c75700;stop-opacity:1;"
@@ -64,7 +64,7 @@
          id="stop7" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.96352583"
+         offset="1"
          id="stop6" />
     </linearGradient>
     <linearGradient
@@ -144,17 +144,17 @@
        fy="12"
        r="4.5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.9747114,1.7065138e-7,-8.1542855e-7,2.1247938,-14.158168,-14.066027)" />
+       gradientTransform="matrix(2.948404,0.39474233,-0.27320516,2.0406153,-10.589789,-16.067811)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4"
        id="radialGradient6"
-       cx="5.4559608"
-       cy="4.0798912"
-       fx="5.4559608"
-       fy="4.0798912"
+       cx="5.1087475"
+       cy="5.6732211"
+       fx="5.1087475"
+       fy="5.6732211"
        r="5.124896"
-       gradientTransform="matrix(-1.9731896,1.883385e-7,5.852127e-8,2.0536914,20.194583,-6.9876563)"
+       gradientTransform="matrix(-1.6447042,7.7144606e-8,0,1.6373371,18.402379,-5.2889754)"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
@@ -177,8 +177,8 @@
     <circle
        style="fill:url(#radialGradient4);fill-opacity:1;stroke:#01304a;stroke-width:0.344217;stroke-opacity:1"
        id="path2"
-       cx="6.1867232"
-       cy="6.1726365"
+       cx="6.2924981"
+       cy="5.9239049"
        r="4.3027077" />
     <path
        id="path9"

@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-76.367529"
-     inkscape:cy="160.51323"
+     inkscape:zoom="5.6111648"
+     inkscape:cx="11.94048"
+     inkscape:cy="38.494681"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -141,7 +141,7 @@
          transform="rotate(-45)" />
       <path
          id="rect1"
-         style="fill:#ffffff;fill-opacity:1;stroke:#662100;stroke-width:0.64140711;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64140711;stroke-opacity:1;stroke-dasharray:none"
          d="m 19,20.500001 v 7.500001 a 3,3 45 0 0 3,3 h 7.5 a 3,3 135 0 0 3,-3 2.716616,2.716616 38.65982 0 0 -3,-2.400001 h -2.099999 a 3,3 45 0 1 -3,-3 v -2.1 a 3,3 45 0 0 -3,-3 2.716616,2.716616 128.65982 0 0 -2.400001,3 z"
          inkscape:path-effect="#path-effect1"
          inkscape:original-d="m 19,17.500001 v 13.500001 h 13.5 v -5.400001 h -8.099999 v -8.1 z" />

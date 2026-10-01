@@ -14,6 +14,38 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient15"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.29086962"
+         id="stop13" />
+      <stop
+         style="stop-color:#191919;stop-opacity:1;"
+         offset="0.60107195"
+         id="stop14" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.29172674"
+         id="stop10" />
+      <stop
+         style="stop-color:#191919;stop-opacity:1;"
+         offset="0.60107195"
+         id="stop11" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect2"
@@ -133,7 +165,7 @@
     </filter>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1"
+       xlink:href="#linearGradient12"
        id="linearGradient4"
        x1="12"
        y1="-8"
@@ -143,7 +175,7 @@
        gradientTransform="translate(1,16)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1"
+       xlink:href="#linearGradient15"
        id="linearGradient3"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1,16)"
@@ -171,11 +203,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="22.627417"
-     inkscape:cx="10.915961"
-     inkscape:cy="16.639106"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="8.2223168"
+     inkscape:cx="-6.9323527"
+     inkscape:cy="21.6484"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -205,7 +237,7 @@
      ry="21.736698"
      transform="matrix(0.44814006,0,0,0.44814102,1.2375496,1.341665)" />
   <ellipse
-     style="font-variation-settings:normal;opacity:1;fill:url(#radialGradient3);fill-opacity:1;stroke:#258383;stroke-width:1.51181102;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;fill:url(#radialGradient3);fill-opacity:1;stroke:#004150;stroke-width:1.51181102;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="path3"
      cx="11.999998"
      cy="12.058022"

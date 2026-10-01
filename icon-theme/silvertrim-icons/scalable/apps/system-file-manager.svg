@@ -26,10 +26,10 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="4.409349"
-     inkscape:cx="17.122709"
-     inkscape:cy="48.873428"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:cx="3.6286536"
+     inkscape:cy="40.368771"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -309,7 +309,7 @@
      transform="matrix(1,0,0,0.88714788,0,0.53967476)"
      style="stroke-width:1.0617">
     <path
-       style="fill:url(#linearGradient4);stroke:#199292;stroke-width:0.454298;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient4);stroke:#004b4b;stroke-width:0.454298;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
        width="8.0190849"
        height="6.6388392"
@@ -320,7 +320,7 @@
        sodipodi:type="rect"
        d="M 0.79699638,4.6634879 H 6.6994147 A 1.0583333,1.0583333 45 0 1 7.757748,5.7218212 l 0,4.5221728 A 1.0583333,1.0583333 135 0 1 6.6994147,11.302327 H 0.79699638 a 1.0583333,1.0583333 45 0 1 -1.0583333,-1.058333 V 5.7218212 a 1.0583333,1.0583333 135 0 1 1.0583333,-1.0583333 z" />
     <path
-       style="fill:url(#linearGradient5);stroke:#5b5b5b;stroke-width:0.464732;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient5);stroke:#000000;stroke-width:0.464732;stroke-dasharray:none;stroke-opacity:1"
        id="path2"
        width="8.7774649"
        height="5.6876268"
@@ -331,7 +331,7 @@
        sodipodi:type="rect"
        d="m 4.0031458,6.295948 h 6.5432092 a 1.117128,1.117128 45 0 1 1.117128,1.117128 v 3.453371 a 1.117128,1.117128 135 0 1 -1.117128,1.117128 H 4.0031458 a 1.117128,1.117128 45 0 1 -1.117128,-1.117128 l 0,-3.453371 a 1.117128,1.117128 135 0 1 1.117128,-1.117128 z" />
     <path
-       style="fill:url(#linearGradient8);stroke:#5b5b5b;stroke-width:0.464732;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient8);stroke:#000000;stroke-width:0.464732;stroke-dasharray:none;stroke-opacity:1"
        id="path3"
        width="8.7774649"
        height="5.6876268"

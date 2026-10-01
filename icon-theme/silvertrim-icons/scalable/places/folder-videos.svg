@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="7.274605"
-     inkscape:cx="16.220812"
-     inkscape:cy="24.262486"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:cx="18.557709"
+     inkscape:cy="25.843328"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
+     inkscape:current-layer="g2">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -142,11 +142,28 @@
        gradientUnits="userSpaceOnUse"
        spreadMethod="repeat"
        gradientTransform="matrix(0.83336628,0,0,0.83336628,0.99978435,0.99978435)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.09408"
+       y="-0.09408"
+       width="1.18816"
+       height="1.18816">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.39200845"
+         id="feGaussianBlur2" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="g2">
+    <path
+       id="path2"
+       style="fill:#ffffff;stroke-width:0.132292;stroke-linejoin:round;fill-opacity:1;filter:url(#filter2)"
+       d="M 0.99978435,0.99978435 V 11 H 3.4997306 V 8.5000537 H 8.5000537 V 11 H 11 V 0.99978435 H 8.5000537 V 3.4997306 H 3.4997306 V 0.99978435 Z M 1.8330998,2.2499728 H 2.6664152 V 3.0832882 H 1.8330998 Z m 7.5002693,0 H 10.166684 V 3.0832882 H 9.3333691 Z M 1.8330998,3.9166037 H 2.6664152 V 4.749919 H 1.8330998 Z m 7.5002693,0 H 10.166684 V 4.749919 H 9.3333691 Z M 3.4997306,4.333046 H 8.5000537 V 7.6667383 H 3.4997306 Z M 1.8330998,5.5832345 H 2.6664152 V 6.4165499 H 1.8330998 Z m 7.5002693,0 H 10.166684 V 6.4165499 H 9.3333691 Z M 1.8330998,7.2498653 h 0.8333154 v 0.833746 H 1.8330998 Z m 7.5002693,0 h 0.8333149 v 0.833746 H 9.3333691 Z M 1.8330998,8.9169268 H 2.6664152 V 9.750242 H 1.8330998 Z m 7.5002693,0 H 10.166684 V 9.750242 H 9.3333691 Z" />
     <path
        id="path1"
        style="fill:url(#linearGradient3);stroke-width:0.132292;stroke-linejoin:round"

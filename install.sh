@@ -6,6 +6,7 @@ cp -rf window-decoration/silvertrim -t ~/.local/share/aurorae/themes/
 echo "Copying desktop theme..."
 cp -rf plasma-theme/silvertrim-plasma -t ~/.local/share/plasma/desktoptheme/
 echo "Copying icon theme..."
+rm -rf ~/.local/share/icons/silvertrim-icons/
 cp -rf icon-theme/silvertrim-icons -t ~/.local/share/icons/
 echo "Copying global theme..."
 cp -rf global-theme/silvertrim-plasma -t ~/.local/share/plasma/look-and-feel/

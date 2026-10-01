@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.3475916"
-     inkscape:cx="21.224508"
-     inkscape:cy="26.55401"
+     inkscape:zoom="0.94532957"
+     inkscape:cx="-145.98083"
+     inkscape:cy="111.07237"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -59,19 +59,19 @@
          offset="0"
          id="stop1" />
       <stop
-         style="stop-color:#a1a1a1;stop-opacity:1;"
+         style="stop-color:#989898;stop-opacity:1;"
          offset="0.37542731"
          id="stop4" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.5"
+         offset="0.50303954"
          id="stop3" />
       <stop
-         style="stop-color:#a5a5a5;stop-opacity:1;"
-         offset="1"
+         style="stop-color:#8b8b8b;stop-opacity:1;"
+         offset="0.92249244"
          id="stop5" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#707070;stop-opacity:1;"
          offset="1"
          id="stop2" />
     </linearGradient>
@@ -183,7 +183,7 @@
        d="M 6.0001075,1.3004457 A 4.999982,4.999982 0 0 0 1,6.3005532 4.999982,4.999982 0 0 0 6.0001075,11.30023 4.999982,4.999982 0 0 0 10.999784,6.3005532 4.999982,4.999982 0 0 0 6.0001075,1.3004457 Z m 0,3.3331179 A 1.6666607,1.6666607 0 0 1 7.6666664,6.3005532 1.6666607,1.6666607 0 0 1 6.0001075,7.9671121 1.6666607,1.6666607 0 0 1 4.3331179,6.3005532 1.6666607,1.6666607 0 0 1 6.0001075,4.6335636 Z" />
     <path
        id="path5"
-       style="opacity:1;fill:url(#linearGradient2);stroke:#9a9a9a;stroke-width:0.333332;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient2);stroke:#4f4f4f;stroke-width:0.333332;stroke-opacity:1"
        d="M 6.0001075,0.799666 A 4.999982,4.999982 0 0 0 1,5.7997735 4.999982,4.999982 0 0 0 6.0001075,10.79945 4.999982,4.999982 0 0 0 10.999784,5.7997735 4.999982,4.999982 0 0 0 6.0001075,0.799666 Z m 0,3.3331179 A 1.6666607,1.6666607 0 0 1 7.6666664,5.7997735 1.6666607,1.6666607 0 0 1 6.0001075,7.4663324 1.6666607,1.6666607 0 0 1 4.3331179,5.7997735 1.6666607,1.6666607 0 0 1 6.0001075,4.1327839 Z" />
   </g>
 </svg>

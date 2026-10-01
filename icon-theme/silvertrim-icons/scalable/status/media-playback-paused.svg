@@ -14,6 +14,22 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient12"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.26632053"
+         id="stop10" />
+      <stop
+         style="stop-color:#191919;stop-opacity:1;"
+         offset="0.60107195"
+         id="stop11" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect4"
@@ -86,7 +102,7 @@
        inkscape:collect="always">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.14777948"
+         offset="0.27087978"
          id="stop1" />
       <stop
          style="stop-color:#191919;stop-opacity:1;"
@@ -160,7 +176,7 @@
        gradientTransform="translate(1,16)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1"
+       xlink:href="#linearGradient12"
        id="linearGradient5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1,16)"
@@ -179,10 +195,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="5.6568542"
-     inkscape:cx="8.9272231"
-     inkscape:cy="24.130019"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:cx="-6.3639611"
+     inkscape:cy="34.117902"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -219,7 +235,7 @@
      rx="9.7346659"
      ry="9.7411051" />
   <path
-     style="font-variation-settings:normal;opacity:1;fill:url(#linearGradient4);fill-opacity:1;stroke:#191919;stroke-width:1.28612501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;fill:url(#linearGradient4);fill-opacity:1;stroke:#191919;stroke-width:1.28613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect2"
      width="2"
      height="8"
@@ -230,7 +246,7 @@
      d="m 9,8 a 1,1 45 0 1 1,1 v 6 A 1,1 135 0 1 9,16 1,1 45 0 1 8,15 V 9 A 1,1 135 0 1 9,8 Z"
      transform="matrix(1.1957882,0,0,1.1555118,-1.7620938,-1.866141)" />
   <path
-     style="font-variation-settings:normal;opacity:1;fill:url(#linearGradient5);fill-opacity:1;stroke:#191919;stroke-width:1.28612501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;fill:url(#linearGradient5);fill-opacity:1;stroke:#191919;stroke-width:1.28613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect3"
      width="2"
      height="8"

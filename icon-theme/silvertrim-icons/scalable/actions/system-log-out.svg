@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="-22.273863"
-     inkscape:cy="51.000074"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-76.367529"
+     inkscape:cy="160.51323"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -125,7 +125,7 @@
          r="16.122036"
          transform="rotate(-135,0.50882903,0.21076395)" />
       <circle
-         style="fill:url(#linearGradient24);fill-opacity:1;stroke:#b56017;stroke-width:2.56563;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient24);fill-opacity:1;stroke:#662100;stroke-width:2.56594913;stroke-dasharray:none;stroke-opacity:1"
          id="path15"
          cx="-35.355339"
          cy="-5.713423e-07"
@@ -141,7 +141,7 @@
          transform="rotate(-45)" />
       <path
          id="rect1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.88001;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#662100;stroke-width:0.64140711;stroke-opacity:1;stroke-dasharray:none"
          d="m 19,20.500001 v 7.500001 a 3,3 45 0 0 3,3 h 7.5 a 3,3 135 0 0 3,-3 2.716616,2.716616 38.65982 0 0 -3,-2.400001 h -2.099999 a 3,3 45 0 1 -3,-3 v -2.1 a 3,3 45 0 0 -3,-3 2.716616,2.716616 128.65982 0 0 -2.400001,3 z"
          inkscape:path-effect="#path-effect1"
          inkscape:original-d="m 19,17.500001 v 13.500001 h 13.5 v -5.400001 h -8.099999 v -8.1 z" />

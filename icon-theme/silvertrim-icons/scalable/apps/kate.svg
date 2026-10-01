@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.7381643"
-     inkscape:cx="37.971093"
-     inkscape:cy="-12.081711"
+     inkscape:zoom="1.2411514"
+     inkscape:cx="-42.702286"
+     inkscape:cy="165.97492"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -59,11 +59,7 @@
          offset="0"
          id="stop25" />
       <stop
-         style="stop-color:#808080;stop-opacity:1;"
-         offset="0.81685771"
-         id="stop26" />
-      <stop
-         style="stop-color:#f2f2f2;stop-opacity:1;"
+         style="stop-color:#e7fdfd;stop-opacity:1;"
          offset="1"
          id="stop24" />
     </linearGradient>
@@ -249,11 +245,7 @@
          offset="0.13116854"
          id="stop1" />
       <stop
-         style="stop-color:#b0b0b0;stop-opacity:1;"
-         offset="0.33089042"
-         id="stop3" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#327676;stop-opacity:1;"
          offset="0.92866862"
          id="stop2" />
     </linearGradient>

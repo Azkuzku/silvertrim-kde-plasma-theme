@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.6481514"
-     inkscape:cx="15.757368"
-     inkscape:cy="40.19014"
+     inkscape:zoom="0.99846154"
+     inkscape:cx="-103.15871"
+     inkscape:cy="113.17411"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -154,7 +154,7 @@
        fx="5.1087475"
        fy="5.6732211"
        r="5.124896"
-       gradientTransform="matrix(-1.6447042,7.7144606e-8,0,1.6373371,18.402379,-5.2889754)"
+       gradientTransform="matrix(-1.5610072,0.7805036,0.73223934,1.4644789,13.820636,-8.2957077)"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"

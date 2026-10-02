@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.1023373"
-     inkscape:cx="-111.5811"
-     inkscape:cy="178.71119"
+     inkscape:zoom="4.4093492"
+     inkscape:cx="-4.0822351"
+     inkscape:cy="37.420488"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -85,7 +85,7 @@
        inkscape:collect="always">
       <stop
          style="stop-color:#0c398c;stop-opacity:1;"
-         offset="0.23406281"
+         offset="0.37236068"
          id="stop26" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -93,7 +93,7 @@
          id="stop28" />
       <stop
          style="stop-color:#0c398c;stop-opacity:1;"
-         offset="0.7440533"
+         offset="0.6452691"
          id="stop27" />
     </linearGradient>
     <linearGradient
@@ -117,7 +117,7 @@
        id="path-effect22"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0.98691213,0,1 @ F,0,0,1,0,0,0,1"
        radius="5"
        unit="px"
        method="auto"
@@ -434,7 +434,8 @@
        y1="0.81073177"
        x2="5.9995217"
        y2="6.8523388"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82765334,0,0,0.82759439,1.0344759,0.32904287)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient26"
@@ -522,9 +523,8 @@
   </g>
   <path
      id="path15"
-     style="stroke-width:0.24165567;fill:url(#linearGradient19);fill-opacity:1;stroke:#000000;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-     d="M 6.0001342,0.81073179 A 5.6195041,4.6133313 0 0 0 0.38048862,5.4242584 5.6195041,4.6133313 0 0 0 0.50826284,6.3468682 H 0.99999997 A 5.1453554,4.0935835 0 0 1 0.854802,5.4242584 5.1453554,4.0935835 0 0 1 6.0001342,1.3304449 5.1453554,4.0935835 0 0 1 11.145466,5.4242584 5.1453554,4.0935835 0 0 1 11.011884,6.3468682 h 0.492705 A 5.6195041,4.6133313 0 0 0 11.619295,5.4242584 5.6195041,4.6133313 0 0 0 6.0001342,0.81073179 Z"
-     transform="matrix(0.82765334,0,0,0.82759439,1.0344759,0.32904287)" />
+     style="fill:url(#linearGradient19);fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5.671875,0.75390625 C 3.5471982,0.81319637 1.2604969,2.3364744 1.1035156,4.59375 1.088011,5.0127799 1.1550103,5.4285042 1.2265625,5.8398438 1.5939544,5.948707 2.3258707,5.8745158 2.1113281,5.3203125 1.6796608,3.7993472 3.0519933,2.3703662 4.431326,1.9524045 6.4002525,1.2717879 9.0735633,1.9483633 9.8671875,4.0351562 10.056734,4.6154599 9.9995529,5.2435986 9.8203125,5.8183594 10.320389,6.0578645 10.976196,5.7569967 10.904297,5.1503906 11.10818,3.0224077 9.2501501,1.2406552 7.2688621,0.875321 6.7475215,0.74610719 6.2064665,0.73347115 5.671875,0.75390625 Z" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -540,7 +540,7 @@
        inkscape:original-d="M 3.4420037,8.4000705 4.2946692,6.6947402 5.1473344,11.81073 5.9999998,4.9894098 6.852665,10.958066 7.7053305,6.6947402 8.5579956,8.4000705"
        transform="matrix(1,0,0,2.0324184,0,-8.6780662)" />
     <path
-       style="fill:url(#linearGradient27);fill-opacity:1;stroke:#16455f;stroke-width:0.339015;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient27);fill-opacity:1;stroke:#ffffff;stroke-width:0.339015;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        d="M 3.4420037,8.4000705 3.8533085,7.5774612 a 0.32092796,0.32092796 8.5513679 0 1 0.6036081,0.090763 L 4.985087,10.837246 a 0.14386359,0.14386359 178.83135 0 0 0.2846588,-0.0058 L 5.8775884,5.9687009 a 0.13216541,0.13216541 179.49746 0 1 0.2619819,-0.0023 l 0.5735242,4.0146698 a 0.16905091,0.16905091 1.5899171 0 0 0.33312,0.00925 L 7.511781,7.6624871 a 0.33861723,0.33861723 172.37244 0 1 0.63491,-0.085026 l 0.4113046,0.8226092"
        id="path10"
        sodipodi:nodetypes="ccccccc"

@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.7552531"
-     inkscape:cx="-55.262684"
-     inkscape:cy="86.027477"
+     inkscape:zoom="7.0210124"
+     inkscape:cx="12.533805"
+     inkscape:cy="29.340498"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -384,7 +384,7 @@
        id="g24"
        transform="rotate(36.121075,9.7666641,-0.88331062)">
       <rect
-         style="opacity:1;fill:url(#linearGradient5);fill-opacity:1;stroke-width:0.15;stroke-linejoin:bevel;stroke:#cb9f08;stroke-opacity:1;stroke-dasharray:none"
+         style="opacity:1;fill:url(#linearGradient5);fill-opacity:1;stroke-width:0.15;stroke-linejoin:bevel;stroke:#6d4200;stroke-opacity:1;stroke-dasharray:none"
          id="rect22"
          width="1"
          height="7"
@@ -392,14 +392,14 @@
          y="2" />
       <path
          id="path23"
-         style="opacity:1;fill:url(#linearGradient11);fill-opacity:1;stroke-width:0.1;stroke-linejoin:bevel;stroke:#b87b00;stroke-opacity:1;stroke-dasharray:none"
+         style="opacity:1;fill:url(#linearGradient11);fill-opacity:1;stroke-width:0.1;stroke-linejoin:bevel;stroke:#815600;stroke-opacity:1;stroke-dasharray:none"
          d="m 10.999845,8.9999674 0.250114,0.999939 h 0.500228 l 0.249597,-0.999939 z" />
       <path
          id="path22"
          style="opacity:1;fill:url(#linearGradient13);fill-opacity:1;stroke-width:0.1;stroke-linejoin:bevel;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
          d="m 11.750187,9.9999064 h -0.500228 l 0.250114,0.9999386 z" />
       <path
-         style="opacity:1;fill:url(#linearGradient20);fill-opacity:1;stroke:#e70000;stroke-width:0.140825;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient20);fill-opacity:1;stroke:#af0000;stroke-width:0.140825;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          id="path24"
          width="1"
          height="1"
@@ -410,7 +410,7 @@
          d="m 11.529168,0 a 0.50084997,0.50084997 48.338469 0 1 0.470833,0.52916665 V 1 h -1 V 0.52916665 A 0.52916665,0.52916665 135 0 1 11.529168,0 Z"
          transform="matrix(1,0,0,0.50424407,-5.4726396e-8,0.49575586)" />
       <rect
-         style="opacity:1;fill:url(#linearGradient15);fill-opacity:1;stroke-width:0.2;stroke-linejoin:bevel;stroke:#767676;stroke-opacity:1;stroke-dasharray:none"
+         style="opacity:1;fill:url(#linearGradient15);fill-opacity:1;stroke-width:0.2;stroke-linejoin:bevel;stroke:#363636;stroke-opacity:1;stroke-dasharray:none"
          id="rect23"
          width="1"
          height="1"

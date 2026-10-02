@@ -26,14 +26,14 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="8.2142637"
-     inkscape:cx="34.939224"
-     inkscape:cy="17.83483"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:cx="16.069608"
+     inkscape:cy="7.9739344"
+     inkscape:window-width="1280"
+     inkscape:window-height="936"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="pressed-center">
+     inkscape:current-layer="active-center">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -244,7 +244,7 @@
          r="16.122036"
          transform="rotate(-135)" />
       <circle
-         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:1.35764504;stroke:#579814;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:url(#linearGradient24);fill-opacity:1;stroke-width:1.35764504;stroke:#345b0c;stroke-opacity:1;stroke-dasharray:none"
          id="path15"
          cx="-35.355339"
          cy="-5.713423e-07"

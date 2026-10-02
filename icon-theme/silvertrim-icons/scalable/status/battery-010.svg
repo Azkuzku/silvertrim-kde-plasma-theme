@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="5.0436885"
-     inkscape:cx="27.360928"
-     inkscape:cy="34.696829"
+     inkscape:cx="15.66314"
+     inkscape:cy="26.171323"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -180,7 +180,8 @@
        y1="1.9998779"
        x2="5.9998922"
        y2="9.9999065"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83900621,0,0,0.83900621,0.96669224,0.96574133)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient16"
@@ -190,46 +191,43 @@
        x2="8.999999"
        y2="10.000001"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.49999986,0,5.5000015)" />
+       gradientTransform="matrix(0.86697358,0,0,0.43348667,0.79889099,5.3663172)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient17);stroke:#942000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient17);stroke:#942000;stroke-width:0.173395;stroke-dasharray:none;stroke-opacity:1"
        id="rect8"
-       width="6"
-       height="0.9999997"
-       x="3.000001"
-       y="10" />
+       width="5.2018414"
+       height="0.86697334"
+       x="3.3998125"
+       y="9.2676973" />
     <use
        x="0"
        y="0"
        xlink:href="#rect8"
        id="use12"
-       transform="translate(0,-1.9999998)"
+       transform="translate(0,-1.8000209)"
        style="display:none" />
     <use
        x="0"
        y="0"
        xlink:href="#rect8"
        id="use15"
-       transform="translate(-7.1525574e-8,-5.9999999)"
+       transform="translate(-7.1525574e-8,-5.800021)"
        style="display:none" />
     <use
        x="0"
        y="0"
        xlink:href="#rect8"
        id="use16"
-       transform="translate(-7.1525574e-8,-7.9999999)"
+       transform="translate(-7.1525574e-8,-7.800021)"
        style="display:none" />
     <path
        id="rect1"
-       style="fill:url(#linearGradient6);stroke:#2b2b2b;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1.9998779,3.0001222 V 8.9996618 A 3.0001222,3.0001222 45 0 0 5.0000001,11.999784 H 7.0000002 A 2.9999062,2.9999062 135 0 0 9.9999064,8.9998778 V 2.9999062 A 2.9999062,2.9999062 45 0 0 7.0000002,0 H 5.0000001 A 3.0001222,3.0001222 135 0 0 1.9998779,3.0001222 Z m 3.0001222,-2.00018324 1.9999062,0 A 2.0000611,2.0000611 45 0 1 8.9999674,3.0000001 V 8.9998778 A 1.9999672,1.9999672 135 0 1 7.0000002,10.999845 H 5.0000001 A 2.0001832,2.0001832 45 0 1 2.9998169,8.9996618 V 3.0001222 A 2.0001832,2.0001832 135 0 1 5.0000001,0.99993896 Z"
-       inkscape:path-effect="#path-effect5"
-       inkscape:original-d="M 1.9998779,0 V 11.999784 H 9.9999064 V 0 Z m 0.999939,0.99993896 H 8.9999674 V 10.999845 H 2.9998169 Z"
-       transform="matrix(0.96774138,0,0,0.96774138,0.19354828,0.19354828)" />
+       style="fill:url(#linearGradient6);stroke:#2b2b2b;stroke-width:0.335603;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.1027307,0.51018717 C 3.5852725,0.52787197 2.2342431,1.8323824 2.1980871,3.35554 c -0.00335,1.8208783 -0.053843,3.6515526 0.023753,5.4698199 0.106754,1.5738361 1.6422982,2.7857371 3.1915853,2.6672871 1.1794627,0.01822 2.5194855,0.112263 3.429343,-0.790131 C 9.7359104,9.9384382 9.8903921,8.7036092 9.8155861,7.5938904 9.7765203,6.0355008 9.8928855,4.466116 9.7598744,2.9141366 9.505331,1.4180851 7.9963798,0.35015821 6.5041364,0.50690981 c -0.4670505,0.00239 -0.9346633,-0.004647 -1.4014025,0.003277 z M 6.8151554,2.263579 C 7.6804375,2.223472 8.2213555,3.1397503 8.0589166,3.9268433 8.0243599,5.55229 8.1286074,7.1887815 8.0058439,8.8072096 7.8311889,9.6581734 6.8599901,9.8204205 6.1275637,9.7359782 5.3503577,9.7806291 4.2964365,9.8021005 4.0080898,8.8920558 3.8582062,7.3370231 3.9839307,5.7604219 3.9425424,4.1968985 3.8578341,3.4647348 4.0156696,2.4967377 4.8660322,2.317497 5.5071747,2.2047308 6.1668469,2.2900673 6.8151554,2.263579 Z" />
   </g>
 </svg>

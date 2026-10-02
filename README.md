@@ -5,7 +5,7 @@ Window deco and icon theme made from scratch (aside from a few "actions" element
 ![preview1](https://github.com/Azkuzku/silvertrim-kde-plasma-theme/blob/main/preview-images/preview1.png)
 I highly recommend using the Oxygen sound theme with it.
 # Installation
-1. Download/clone the source code (latest update of the theme)
+1. Clone the source (latest update of the theme, recommended)
 ```
 git clone https://github.com/Azkuzku/silvertrim-kde-plasma-theme/
 ```

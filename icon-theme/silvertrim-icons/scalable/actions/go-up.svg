@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="10.70935"
-     inkscape:cx="20.916303"
-     inkscape:cy="29.366863"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="2.6773375"
+     inkscape:cx="-26.892388"
+     inkscape:cy="56.025809"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -90,7 +90,7 @@
        inkscape:collect="always">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.25689745"
+         offset="0.30704942"
          id="stop8" />
       <stop
          style="stop-color:#202020;stop-opacity:1;"
@@ -122,10 +122,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient7"
        id="linearGradient9"
-       x1="1"
-       y1="6"
-       x2="11"
-       y2="6"
+       x1="2.9909256"
+       y1="2.0068226"
+       x2="9.0090761"
+       y2="9.9931774"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.79999997,0,0,0.79999997,1.1942806,1.2000001)" />
     <filter

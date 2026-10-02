@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="4.3042263"
-     inkscape:cx="3.0202873"
-     inkscape:cy="65.052342"
+     inkscape:zoom="2.1521132"
+     inkscape:cx="-21.374341"
+     inkscape:cy="63.658363"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -90,7 +90,7 @@
        inkscape:collect="always">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.25689745"
+         offset="0.31464821"
          id="stop8" />
       <stop
          style="stop-color:#1f6f00;stop-opacity:1;"
@@ -98,7 +98,7 @@
          id="stop11" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.88088655"
+         offset="0.88240629"
          id="stop9" />
     </linearGradient>
     <inkscape:path-effect
@@ -122,10 +122,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient7"
        id="linearGradient9"
-       x1="1"
-       y1="6"
-       x2="11"
-       y2="6"
+       x1="2.9909241"
+       y1="2.0068235"
+       x2="9.0090733"
+       y2="9.9931765"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.79999997,0,0,0.79999997,1.1942806,1.2000001)" />
     <filter

@@ -20,15 +20,15 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=189,195,199
-BackgroundNormal=239,240,241
+BackgroundNormal=233,243,243
 DecorationFocus=61,174,233
 DecorationHover=147,206,233
 ForegroundActive=61,174,233
-ForegroundInactive=127,140,141
+ForegroundInactive=127,141,141
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=198,92,0
-ForegroundNormal=35,38,39
+ForegroundNormal=0,0,0
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -48,11 +48,11 @@ ForegroundVisited=61,174,230
 
 [Colors:Selection]
 BackgroundAlternate=29,153,243
-BackgroundNormal=89,184,184
+BackgroundNormal=77,138,138
 DecorationFocus=61,174,233
 DecorationHover=147,206,233
 ForegroundActive=252,252,252
-ForegroundInactive=239,240,241
+ForegroundInactive=239,241,241
 ForegroundLink=253,188,75
 ForegroundNegative=176,55,69
 ForegroundNeutral=246,116,0
@@ -62,11 +62,11 @@ ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
 BackgroundAlternate=77,77,77
-BackgroundNormal=35,38,39
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=147,206,233
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
+ForegroundInactive=127,141,141
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -80,21 +80,21 @@ BackgroundNormal=252,252,252
 DecorationFocus=61,174,233
 DecorationHover=147,206,233
 ForegroundActive=61,174,233
-ForegroundInactive=127,140,141
+ForegroundInactive=127,141,141
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=35,38,39
+ForegroundNormal=0,0,0
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:Window]
 BackgroundAlternate=189,195,199
-BackgroundNormal=229,230,230
+BackgroundNormal=233,240,240
 DecorationFocus=61,174,233
 DecorationHover=147,206,233
 ForegroundActive=61,174,233
-ForegroundInactive=127,140,141
+ForegroundInactive=127,141,141
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -111,9 +111,9 @@ shadeSortColumn=true
 contrast=4
 
 [WM]
-activeBackground=71,80,87
+activeBackground=71,87,87
 activeBlend=252,252,252
 activeForeground=252,252,252
 inactiveBackground=239,240,241
-inactiveBlend=75,71,67
+inactiveBlend=67,75,75
 inactiveForeground=189,195,199

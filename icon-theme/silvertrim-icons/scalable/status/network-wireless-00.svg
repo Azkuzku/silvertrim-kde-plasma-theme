@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="network-wireless-80.svg"
+   sodipodi:docname="network-wireless-00.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.0436886"
-     inkscape:cx="0.99133798"
-     inkscape:cy="8.7237742"
+     inkscape:zoom="7.1328528"
+     inkscape:cx="19.206901"
+     inkscape:cy="36.451054"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -291,25 +291,25 @@
          r="8.2445145" />
     </g>
     <circle
-       style="fill:none;stroke:#ffffff;stroke-width:1.04718;stroke-dasharray:none;stroke-opacity:1"
+       style="display:none;fill:none;stroke:#ffffff;stroke-width:1.04718;stroke-dasharray:none;stroke-opacity:1"
        id="circle5"
        cx="2.7554851"
        cy="9.2445154"
        r="1.6781688" />
     <circle
-       style="fill:none;stroke:url(#radialGradient3);stroke-width:1.10088;stroke-dasharray:none;stroke-opacity:1"
+       style="display:none;fill:none;stroke:url(#radialGradient3);stroke-width:1.10088;stroke-dasharray:none;stroke-opacity:1"
        id="circle6"
        cx="2.7554851"
        cy="9.2445154"
        r="3.7830894" />
     <circle
-       style="fill:none;stroke:url(#radialGradient4);stroke-width:1.10088;stroke-dasharray:none;stroke-opacity:1"
+       style="display:none;fill:none;stroke:url(#radialGradient4);stroke-width:1.10088;stroke-dasharray:none;stroke-opacity:1"
        id="circle7"
        cx="2.7554851"
        cy="9.2445154"
        r="6.0047941" />
     <circle
-       style="display:none;opacity:1;fill:none;stroke:url(#radialGradient5);stroke-width:1.10088;stroke-dasharray:none;stroke-opacity:1"
+       style="display:none;fill:none;stroke:url(#radialGradient5);stroke-width:1.10088;stroke-dasharray:none;stroke-opacity:1"
        id="circle8"
        cx="2.7554851"
        cy="9.2445154"

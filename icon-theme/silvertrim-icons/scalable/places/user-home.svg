@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="20"
-     inkscape:cy="54.875"
-     inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:zoom="1.4036645"
+     inkscape:cx="-4.2745258"
+     inkscape:cy="65.54273"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -279,7 +279,7 @@
      id="g11"
      transform="translate(0,-0.500076)">
     <path
-       style="fill:url(#linearGradient2);stroke:#a07e3e;stroke-width:0.509969;stroke-opacity:1"
+       style="fill:url(#linearGradient2);stroke:#5b4824;stroke-width:0.509969;stroke-opacity:1"
        id="path9"
        width="7.605"
        height="6.1510835"
@@ -291,7 +291,7 @@
        transform="matrix(0.68763367,0,0,0.87194995,1.8815751,0.78751299)" />
     <path
        id="path10"
-       style="fill:url(#linearGradient4);stroke:#6f0000;stroke-width:0.421199;stroke-opacity:1"
+       style="fill:url(#linearGradient4);stroke:#490000;stroke-width:0.421199;stroke-opacity:1"
        d="M 5.9999998,0.26573913 11.170387,5.3627663 A 0.21697653,0.21697653 112.29532 0 1 11.018061,5.7342607 H 0.98193841 A 0.21697654,0.21697654 67.704683 0 1 0.82961293,5.3627663 L 5.6231586,0.63723351 Z"
        sodipodi:nodetypes="ccccc"
        inkscape:path-effect="#path-effect14"

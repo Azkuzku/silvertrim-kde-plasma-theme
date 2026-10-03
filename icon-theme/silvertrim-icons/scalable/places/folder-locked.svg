@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2.6987009"
-     inkscape:cx="9.0784422"
+     inkscape:cx="9.2637165"
      inkscape:cy="44.836388"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g18">
+     inkscape:current-layer="g2">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -296,7 +296,7 @@
        sodipodi:type="rect"
        d="M 0.79699638,4.6634879 H 6.6994147 A 1.0583333,1.0583333 45 0 1 7.757748,5.7218212 l 0,4.5221728 A 1.0583333,1.0583333 135 0 1 6.6994147,11.302327 H 0.79699638 a 1.0583333,1.0583333 45 0 1 -1.0583333,-1.058333 V 5.7218212 a 1.0583333,1.0583333 135 0 1 1.0583333,-1.0583333 z" />
     <path
-       style="fill:url(#linearGradient5);stroke:#1eb2b2;stroke-width:0.411245;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient5);stroke:#126a6a;stroke-width:0.411245;stroke-dasharray:none;stroke-opacity:1"
        id="path2"
        width="8.7774649"
        height="5.6876268"

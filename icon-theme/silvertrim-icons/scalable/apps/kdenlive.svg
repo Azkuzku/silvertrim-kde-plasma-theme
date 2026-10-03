@@ -313,7 +313,7 @@
          offset="0"
          id="stop23" />
       <stop
-         style="stop-color:#0d5a99;stop-opacity:1;"
+         style="stop-color:#095555;stop-opacity:1;"
          offset="1"
          id="stop22" />
     </linearGradient>
@@ -325,7 +325,7 @@
          offset="0"
          id="stop21" />
       <stop
-         style="stop-color:#0d5a99;stop-opacity:1;"
+         style="stop-color:#095555;stop-opacity:1;"
          offset="1"
          id="stop20" />
     </linearGradient>
@@ -337,7 +337,7 @@
          offset="0"
          id="stop19" />
       <stop
-         style="stop-color:#0d5a99;stop-opacity:1;"
+         style="stop-color:#095555;stop-opacity:1;"
          offset="1"
          id="stop18" />
     </linearGradient>
@@ -349,7 +349,7 @@
          offset="0"
          id="stop16" />
       <stop
-         style="stop-color:#0d5a99;stop-opacity:1;"
+         style="stop-color:#095555;stop-opacity:1;"
          offset="1"
          id="stop15" />
     </linearGradient>
@@ -361,7 +361,7 @@
          offset="0"
          id="stop14" />
       <stop
-         style="stop-color:#0d5a99;stop-opacity:1;"
+         style="stop-color:#095555;stop-opacity:1;"
          offset="1"
          id="stop13" />
     </linearGradient>
@@ -373,7 +373,7 @@
          offset="0"
          id="stop12" />
       <stop
-         style="stop-color:#0d5a99;stop-opacity:1;"
+         style="stop-color:#095555;stop-opacity:1;"
          offset="1"
          id="stop11" />
     </linearGradient>
@@ -385,7 +385,7 @@
          offset="0.21027593"
          id="stop8" />
       <stop
-         style="stop-color:#1f5484;stop-opacity:1;"
+         style="stop-color:#1f8484;stop-opacity:1;"
          offset="0.5"
          id="stop10" />
       <stop
@@ -489,15 +489,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="5.6073572"
-     inkscape:cx="34.597404"
-     inkscape:cy="44.851789"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="7.9300006"
+     inkscape:cx="17.402269"
+     inkscape:cy="19.735181"
+     inkscape:window-width="1280"
+     inkscape:window-height="950"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g8">
     <inkscape:grid
        id="grid9"
        units="px"
@@ -541,13 +541,13 @@
      style="display:inline">
     <path
        id="path1"
-       style="fill:url(#linearGradient25);stroke:#7f1c1c;stroke-width:0.48;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:url(#linearGradient25);stroke:#4e1111;stroke-width:0.48;stroke-linejoin:round;stroke-opacity:1"
        d="m 6.1188225,-26.541177 0.242355,0.242354 A 2.317645,2.317645 67.5 0 1 7.04,-24.66 v 8.96 A 0.96,0.96 45 0 0 8,-14.74 0.71554175,0.71554175 108.43495 0 0 8.32,-15.7 v -8.96 a 2.317645,2.317645 112.5 0 1 0.6788225,-1.638823 l 0.242355,-0.242354 A 0.39764502,0.39764502 67.5 0 0 8.96,-27.22 H 6.4 a 0.39764502,0.39764502 112.5 0 0 -0.2811775,0.678823 z"
        inkscape:path-effect="#path-effect9"
        inkscape:original-d="m 5.44,-27.22 1.6,1.6 v 10.88 h 1.28 v -10.88 l 1.6,-1.6 z" />
     <path
        id="path2"
-       style="fill:url(#linearGradient9);stroke:#1f5484;stroke-width:0.461531;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient9);stroke:#134f4f;stroke-width:0.461531;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 8.9599994,-23.699999 v 5.76 a 0.55816894,0.55816894 23.560547 0 0 0.9379756,0.409023 l 2.604049,-2.418047 a 1.1885713,1.1885713 89.999993 0 0 0,-1.741954 l -2.6040488,-2.418045 a 0.55816912,0.55816912 156.43945 0 0 -0.9379758,0.409023 z"
        sodipodi:nodetypes="cccc"
        inkscape:path-effect="#path-effect11"

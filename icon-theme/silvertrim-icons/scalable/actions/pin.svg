@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.0436886"
-     inkscape:cx="9.9133797"
-     inkscape:cy="30.929745"
+     inkscape:zoom="0.74569104"
+     inkscape:cx="-178.35805"
+     inkscape:cy="292.34628"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g15">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -132,7 +132,7 @@
          id="stop11" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.99822378"
+         offset="0.62498134"
          id="stop12" />
     </linearGradient>
     <linearGradient
@@ -148,7 +148,7 @@
          id="stop8" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.99822378"
+         offset="0.82441664"
          id="stop7" />
     </linearGradient>
     <linearGradient
@@ -156,7 +156,7 @@
        inkscape:collect="always">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.20248668"
+         offset="0.2986908"
          id="stop3" />
       <stop
          style="stop-color:#525252;stop-opacity:1;"
@@ -164,7 +164,7 @@
          id="stop5" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.81527531"
+         offset="0.66255665"
          id="stop4" />
     </linearGradient>
     <inkscape:path-effect

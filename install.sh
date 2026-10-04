@@ -3,6 +3,7 @@ echo "Copying color scheme..."
 cp -rf color-scheme/Silvertrim.colors -t ~/.local/share/color-schemes/
 echo "Copying window decoration..."
 cp -rf window-decoration/silvertrim -t ~/.local/share/aurorae/themes/
+cp -rf window-decoration/silvertrim-light -t ~/.local/share/aurorae/themes/
 echo "Copying desktop theme..."
 rm -rf ~/.local/share/plasma/desktoptheme/silvertrim-plasma/
 rm -rf ~/.local/share/plasma/desktoptheme/silvertrim-plasma-light/

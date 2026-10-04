@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.99846154"
-     inkscape:cx="-103.15871"
-     inkscape:cy="113.17411"
+     inkscape:zoom="1.8399158"
+     inkscape:cx="41.306239"
+     inkscape:cy="114.13566"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -72,16 +72,16 @@
        inkscape:collect="always">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.08510638"
-         id="stop2" />
+         offset="0.11753814"
+         id="stop3" />
       <stop
          style="stop-color:#007777;stop-opacity:1;"
-         offset="0.56686932"
+         offset="0.43313068"
          id="stop4" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.8799392"
-         id="stop3" />
+         offset="0.91489362"
+         id="stop2" />
     </linearGradient>
     <inkscape:path-effect
        effect="fillet_chamfer"
@@ -138,10 +138,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2"
        id="radialGradient4"
-       cx="7"
-       cy="12"
-       fx="7"
-       fy="12"
+       cx="7.1905551"
+       cy="7.4631386"
+       fx="7.1905551"
+       fy="7.4631386"
        r="4.5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.948404,0.39474233,-0.27320516,2.0406153,-10.589789,-16.067811)" />

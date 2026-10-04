@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="10.70935"
-     inkscape:cx="20.44942"
-     inkscape:cy="12.092237"
-     inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:zoom="5.354675"
+     inkscape:cx="22.783829"
+     inkscape:cy="18.021635"
+     inkscape:window-width="1280"
+     inkscape:window-height="950"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -79,7 +79,7 @@
          offset="0"
          id="stop4" />
       <stop
-         style="stop-color:#7e7e7e;stop-opacity:1;"
+         style="stop-color:#404040;stop-opacity:1;"
          offset="0.34395814"
          id="stop6" />
       <stop
@@ -229,7 +229,7 @@
      transform="matrix(0.94094483,0,0,0.94123357,0.35695401,0.08011114)"
      style="stroke-width:1.0626">
     <rect
-       style="fill:url(#linearGradient8);stroke:#4a4a4a;stroke-width:0.425039;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:url(#linearGradient8);stroke:#242424;stroke-width:0.425039;stroke-linejoin:round;stroke-opacity:1"
        id="rect10"
        width="1.6926209"
        height="5.0779986"

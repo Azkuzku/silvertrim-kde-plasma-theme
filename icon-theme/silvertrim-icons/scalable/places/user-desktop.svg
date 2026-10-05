@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="4.8819969"
-     inkscape:cx="4.0966843"
-     inkscape:cy="39.020918"
-     inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:zoom="7.0443008"
+     inkscape:cx="21.790665"
+     inkscape:cy="22.429479"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -93,7 +93,7 @@
          offset="0"
          id="stop2" />
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#3e3e3e;stop-opacity:1;"
          offset="0.27228251"
          id="stop3" />
       <stop
@@ -215,5 +215,26 @@
        height="0.79492402"
        x="9.1847439"
        y="3.1895015" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386266"
+       id="rect10"
+       width="0.79618585"
+       height="0.79492402"
+       x="7.6019068"
+       y="4.7793498" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386266"
+       id="rect11"
+       width="0.79618585"
+       height="0.79492402"
+       x="7.6019068"
+       y="3.1895015" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386266"
+       id="rect12"
+       width="0.79618585"
+       height="0.79492402"
+       x="6.0911059"
+       y="3.2004027" />
   </g>
 </svg>

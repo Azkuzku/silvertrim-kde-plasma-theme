@@ -4,6 +4,8 @@ This theme is intended for users who don't enjoy too much minimalism, but still 
 Plasma theme built on top of Breeze<br>
 Window deco and icon theme made from scratch<br>
 (aside from a few "actions" elements in the icon theme taken from Breeze)<br><nbsp><br>
+![iconspreview](https://github.com/Azkuzku/silvertrim-kde-plasma-theme/blob/main/preview-images/preview-icons.png)
+<br><nbsp><br>
 ![preview1](https://github.com/Azkuzku/silvertrim-kde-plasma-theme/blob/main/preview-images/preview1.png)
 <br><nbsp><br>
 I highly recommend using the Oxygen sound theme with it.

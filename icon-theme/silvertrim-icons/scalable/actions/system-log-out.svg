@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="5.6111648"
-     inkscape:cx="11.94048"
-     inkscape:cy="38.494681"
+     inkscape:zoom="9.5679298"
+     inkscape:cx="11.444482"
+     inkscape:cy="24.97928"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -125,7 +125,7 @@
          r="16.122036"
          transform="rotate(-135,0.50882903,0.21076395)" />
       <circle
-         style="fill:url(#linearGradient24);fill-opacity:1;stroke:#662100;stroke-width:2.56594913;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient24);fill-opacity:1;stroke:#000000;stroke-width:2.56594913;stroke-dasharray:none;stroke-opacity:1"
          id="path15"
          cx="-35.355339"
          cy="-5.713423e-07"

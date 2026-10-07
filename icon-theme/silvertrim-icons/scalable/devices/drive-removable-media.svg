@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.9956112"
-     inkscape:cx="21.296733"
-     inkscape:cy="115.75401"
-     inkscape:window-width="1600"
-     inkscape:window-height="824"
+     inkscape:zoom="1.4111102"
+     inkscape:cx="-47.480345"
+     inkscape:cy="14.527568"
+     inkscape:window-width="1280"
+     inkscape:window-height="952"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -160,8 +160,8 @@
          offset="0"
          id="stop9" />
       <stop
-         style="stop-color:#878787;stop-opacity:1;"
-         offset="0.89013931"
+         style="stop-color:#585858;stop-opacity:1;"
+         offset="0.89013928"
          id="stop10" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -329,7 +329,7 @@
        y="13.000001" />
   </g>
   <rect
-     style="fill:url(#linearGradient34);fill-opacity:1;fill-rule:nonzero;stroke:#008c8c;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:url(#linearGradient34);fill-opacity:1;fill-rule:nonzero;stroke:#004646;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
      id="rect45"
      width="14"
      height="8.8000011"
@@ -341,7 +341,7 @@
      inkscape:groupmode="layer"
      id="g45">
     <rect
-       style="fill:url(#linearGradient32);fill-opacity:1;fill-rule:nonzero;stroke:#008c8c;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient32);fill-opacity:1;fill-rule:nonzero;stroke:#004646;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
        id="rect40"
        width="14"
        height="5.9999986"

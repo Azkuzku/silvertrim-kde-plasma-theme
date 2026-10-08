@@ -60,7 +60,7 @@
        xlink:href="#linearGradient6"
        id="radialGradient3"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8869504,0.00109224,-5.4529038e-4,1.4412801,-45.257905,-32.197982)"
+       gradientTransform="matrix(2.9702632,0.00112376,-5.6102659e-4,1.4828731,-47.257033,-33.574086)"
        cx="24.000248"
        cy="49.321674"
        fx="24.000248"
@@ -106,9 +106,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.461256"
-     inkscape:cx="16.251029"
-     inkscape:cy="46.511566"
+     inkscape:zoom="3.1545844"
+     inkscape:cx="-17.751942"
+     inkscape:cy="74.01926"
      inkscape:window-width="1280"
      inkscape:window-height="952"
      inkscape:window-x="0"
@@ -122,17 +122,17 @@
      cy="25.437174"
      rx="21.722374"
      ry="21.736698"
-     transform="matrix(0.91367528,0,0,0.91367528,2.0731592,0.43058874)" />
+     transform="matrix(0.94004247,0,0,0.94004247,1.4399297,-0.00390642)" />
   <ellipse
-     style="font-variation-settings:normal;opacity:1;fill:url(#radialGradient3);fill-opacity:1;stroke:#000000;stroke-width:1.51199996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;fill:url(#radialGradient3);fill-opacity:1;stroke:#000000;stroke-width:1.55563;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="path3"
      cx="24.015818"
-     cy="22.279226"
-     rx="19.847197"
-     ry="19.860283" />
+     cy="22.475246"
+     rx="20.419954"
+     ry="20.433418" />
   <g
      id="g1"
-     transform="matrix(0.04371818,0,0,0.04371818,22.892062,20.615503)"
+     transform="matrix(0.04371818,0,0,0.04371818,22.416564,20.346577)"
      style="fill:#047272;fill-opacity:1">
     <path
        d="m -75.441,-19.618 c -20.773,-28.727 -61.722,-47.584 -99.879,-47.584 -63.048,0 -121.68,38.732 -121.68,145.021 v 178.196 c 0,12.077 9.797,21.801 21.874,21.801 12.085,0 21.881,-9.797 21.881,-21.801 V 77.819 c -0.022,-80.778 38.959,-101.341 77.925,-101.341 38.966,0 77.933,32.391 77.933,87.057 v 192.48 c 0,12.077 9.796,21.801 21.873,21.801 h 0.095 0.095 c 12.078,0 21.874,-9.724 21.874,-21.801 V 63.535 c 0,-54.666 38.966,-87.057 77.932,-87.057 24.738,0 77.925,10.987 77.925,87.057 l 1.48,64.647 c 0,119.452 80.177,149.634 131.199,149.634 51.022,0 127.453,-35.242 129.012,-140.93 V -32.236 c 0,-29.092 -43.878,-29.092 -43.878,0 v 169.122 c 0,80.177 -59.623,97.255 -85.134,97.255 -25.511,0 -87.466,-12.018 -87.466,-105.959 l -1.458,-61.109 c 0,-90.605 -56.853,-137.919 -121.68,-137.919 -38.157,0 -79.149,22.501 -99.923,51.228 z"

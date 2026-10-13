@@ -1,6 +1,7 @@
 echo "Copying color scheme... (All users)"
 sudo cp -rf color-scheme/Silvertrim.colors -t /usr/share/color-schemes/
 echo "Copying window decoration... (All users)"
+sudo mkdir -p /usr/share/aurorae/themes/
 sudo cp -rf window-decoration/silvertrim -t /usr/share/aurorae/themes/
 sudo cp -rf window-decoration/silvertrim-light -t /usr/share/aurorae/themes/
 echo "Copying desktop theme... (All users)"

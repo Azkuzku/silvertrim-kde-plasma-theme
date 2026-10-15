@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="7.1349564"
-     inkscape:cx="14.155658"
-     inkscape:cy="27.89085"
-     inkscape:window-width="1366"
-     inkscape:window-height="761"
+     inkscape:zoom="3.5674782"
+     inkscape:cx="-23.826354"
+     inkscape:cy="18.640618"
+     inkscape:window-width="1280"
+     inkscape:window-height="952"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g3">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -267,7 +267,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.0617;stroke-opacity:1;filter:url(#filter10)"
-     transform="matrix(1.0848282,0,0,0.96240304,-0.5095793,0.5317194)">
+     transform="matrix(1.1876161,0,0,1.0535911,-1.1270457,-0.0154151)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.456532;stroke-dasharray:none;stroke-opacity:1"
        id="rect3"
@@ -306,7 +306,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="g3"
-     transform="matrix(1.0848282,0,0,0.96240304,-0.5095793,0.0505104)"
+     transform="matrix(1.1876161,0,0,1.0535911,-1.1270457,-0.54221883)"
      style="stroke-width:1.0617">
     <path
        style="fill:url(#linearGradient4);stroke:#004b4b;stroke-width:0.454298;stroke-dasharray:none;stroke-opacity:1"

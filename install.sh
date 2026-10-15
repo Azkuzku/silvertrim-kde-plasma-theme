@@ -5,7 +5,6 @@ echo "Copying window decoration..."
 cp -rf window-decoration/silvertrim -t ~/.local/share/aurorae/themes/
 echo "Copying desktop theme..."
 rm -rf ~/.local/share/plasma/desktoptheme/silvertrim-plasma/
-rm -rf ~/.local/share/plasma/desktoptheme/silvertrim-plasma-light/
 cp -rf plasma-theme/silvertrim-plasma -t ~/.local/share/plasma/desktoptheme/
 echo "Copying icon theme..."
 rm -rf ~/.local/share/icons/silvertrim-icons/

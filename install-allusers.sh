@@ -5,7 +5,6 @@ sudo mkdir -p /usr/share/aurorae/themes/
 sudo cp -rf window-decoration/silvertrim -t /usr/share/aurorae/themes/
 echo "Copying desktop theme... (All users)"
 sudo rm -rf /usr/share/plasma/desktoptheme/silvertrim-plasma/
-sudo rm -rf /usr/share/plasma/desktoptheme/silvertrim-plasma-light/
 sudo cp -rf plasma-theme/silvertrim-plasma -t /usr/share/plasma/desktoptheme/
 echo "Copying icon theme... (All users)"
 sudo rm -rf /usr/share/icons/silvertrim-icons/

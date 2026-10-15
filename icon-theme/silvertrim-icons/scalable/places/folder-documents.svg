@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.2229801"
-     inkscape:cx="-88.308877"
-     inkscape:cy="119.38052"
+     inkscape:zoom="7.2446122"
+     inkscape:cx="19.186672"
+     inkscape:cy="24.984084"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
@@ -175,10 +175,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter6"
-       x="-0.093204215"
-       y="-0.10135574"
-       width="1.1864084"
-       height="1.2027115">
+       x="-0.08094124"
+       y="-0.088020264"
+       width="1.1618825"
+       height="1.1760405">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.38031176"
@@ -270,7 +270,7 @@
        height="6.6388392"
        x="-0.26133692"
        y="4.6634879"
-       transform="matrix(0.91693007,-0.39904793,0.26581558,0.9640239,0,0)"
+       transform="matrix(1.0558492,-0.45950555,0.30608788,1.110078,-0.93012041,-0.88421051)"
        inkscape:path-effect="#path-effect2"
        sodipodi:type="rect"
        d="M 0.79699638,4.6634879 H 6.6994147 A 1.0583333,1.0583333 45 0 1 7.757748,5.7218212 l 0,4.5221728 A 1.0583333,1.0583333 135 0 1 6.6994147,11.302327 H 0.79699638 a 1.0583333,1.0583333 45 0 1 -1.0583333,-1.058333 V 5.7218212 a 1.0583333,1.0583333 135 0 1 1.0583333,-1.0583333 z" />
@@ -281,7 +281,7 @@
        height="5.6876268"
        x="2.8860178"
        y="6.295948"
-       transform="matrix(0.94606044,-0.32399021,0,1,0,0)"
+       transform="matrix(1.089393,-0.37307623,0,1.1515046,-0.93012041,-0.88421051)"
        inkscape:path-effect="#path-effect1"
        sodipodi:type="rect"
        d="m 4.0031458,6.295948 h 6.5432092 a 1.117128,1.117128 45 0 1 1.117128,1.117128 v 3.453371 a 1.117128,1.117128 135 0 1 -1.117128,1.117128 H 4.0031458 a 1.117128,1.117128 45 0 1 -1.117128,-1.117128 l 0,-3.453371 a 1.117128,1.117128 135 0 1 1.117128,-1.117128 z" />
@@ -298,7 +298,7 @@
        height="6.6388392"
        x="-0.26133692"
        y="4.6634879"
-       transform="matrix(0.91693007,-0.39904793,0.26581558,0.9640239,0,0)"
+       transform="matrix(1.0558492,-0.45950555,0.30608788,1.110078,-0.93012041,-0.97517294)"
        inkscape:path-effect="#path-effect4"
        sodipodi:type="rect"
        d="M 0.79699638,4.6634879 H 6.6994147 A 1.0583333,1.0583333 45 0 1 7.757748,5.7218212 l 0,4.5221728 A 1.0583333,1.0583333 135 0 1 6.6994147,11.302327 H 0.79699638 a 1.0583333,1.0583333 45 0 1 -1.0583333,-1.058333 V 5.7218212 a 1.0583333,1.0583333 135 0 1 1.0583333,-1.0583333 z" />
@@ -309,7 +309,7 @@
        sodipodi:nodetypes="ccccccc"
        inkscape:original-d="M 1,0 H 8.0000002 V 3.0000001 H 11 V 12 H 1 Z"
        inkscape:path-effect="#path-effect5"
-       transform="matrix(0.60928922,-0.1903786,0,0.60928922,2.2581983,3.1567208)" />
+       transform="matrix(0.60928922,-0.1903786,0,0.60928922,1.7458796,2.6918797)" />
     <path
        id="rect1"
        style="fill:url(#linearGradient2);stroke:#4b4b4b;stroke-width:0.609982;stroke-opacity:1"
@@ -317,7 +317,7 @@
        sodipodi:nodetypes="ccccccc"
        inkscape:original-d="M 1,0 H 8.0000002 V 3.0000001 H 11 V 12 H 1 Z"
        inkscape:path-effect="#path-effect3"
-       transform="matrix(0.60928919,-0.19037859,0,0.60928919,2.2581983,2.8367884)" />
+       transform="matrix(0.60928919,-0.19037859,0,0.60928919,1.7458796,2.3719473)" />
     <path
        style="fill:url(#linearGradient5);stroke:#4c4c4c;stroke-width:0.411245;stroke-dasharray:none;stroke-opacity:1"
        id="path2"
@@ -325,7 +325,7 @@
        height="5.6876268"
        x="2.8860178"
        y="6.295948"
-       transform="matrix(0.94606044,-0.32399021,0,1,0,0)"
+       transform="matrix(1.089393,-0.37307623,0,1.1515046,-0.93012041,-0.97517294)"
        inkscape:path-effect="#path-effect6"
        sodipodi:type="rect"
        d="m 4.0031458,6.295948 h 6.5432092 a 1.117128,1.117128 45 0 1 1.117128,1.117128 v 3.453371 a 1.117128,1.117128 135 0 1 -1.117128,1.117128 H 4.0031458 a 1.117128,1.117128 45 0 1 -1.117128,-1.117128 l 0,-3.453371 a 1.117128,1.117128 135 0 1 1.117128,-1.117128 z" />

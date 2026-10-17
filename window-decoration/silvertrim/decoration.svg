@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="6.1958452"
-     inkscape:cx="29.858719"
-     inkscape:cy="60.766528"
-     inkscape:window-width="1280"
-     inkscape:window-height="948"
+     inkscape:zoom="3.3006075"
+     inkscape:cx="40.4471"
+     inkscape:cy="11.664519"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,6 +53,34 @@
   <defs
      id="defs1">
     <linearGradient
+       id="linearGradient10"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.0170778"
+         id="stop1" />
+      <stop
+         style="stop-color:#dbdbdb;stop-opacity:0.59215689;"
+         offset="0.04079697"
+         id="stop3" />
+      <stop
+         style="stop-color:#171717;stop-opacity:0.36898395;"
+         offset="0.41034156"
+         id="stop4" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.34759358;"
+         offset="0.50877607"
+         id="stop5" />
+      <stop
+         style="stop-color:#252525;stop-opacity:0.63921571;"
+         offset="0.86349618"
+         id="stop6" />
+      <stop
+         style="stop-color:#252525;stop-opacity:0.63921571;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient49"
        inkscape:collect="always">
       <stop
@@ -64,11 +92,11 @@
          offset="0.04079697"
          id="stop41" />
       <stop
-         style="stop-color:#171717;stop-opacity:0.78039217;"
+         style="stop-color:#171717;stop-opacity:0.36862746;"
          offset="0.41034156"
          id="stop42" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.80000001;"
+         style="stop-color:#000000;stop-opacity:0.34901962;"
          offset="0.50877607"
          id="stop47" />
       <stop
@@ -489,7 +517,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient49"
+       xlink:href="#linearGradient10"
        id="linearGradient19"
        gradientUnits="userSpaceOnUse"
        x1="19"

@@ -10,6 +10,10 @@ Window deco and icon theme made from scratch<br>
 <br><nbsp><br>
 I highly recommend using the Oxygen sound theme with it.
 # Installation
+Install Oxygen icon theme, as a fallback.
+```
+sudo apt install oxygen-icon-theme
+```
 1. Clone the source (latest update of the theme, recommended)
 ```
 git clone https://github.com/Azkuzku/silvertrim-kde-plasma-theme/

@@ -10,6 +10,9 @@ widgetStyle=Fusion
 [kdeglobals][Icons]
 Theme=silvertrim-icons
 
+[kdeglobals][Sounds]
+Theme=oxygen
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
@@ -22,3 +25,7 @@ theme=__aurorae__svg__silvertrim
 
 [plasmarc][Theme]
 name=silvertrim-plasma
+
+[KSplash]
+Engine=none
+Theme=None

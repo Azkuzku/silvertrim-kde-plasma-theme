@@ -2,7 +2,7 @@
 TitleAlignment=Center
 TitleVerticalAlignment=Center
 ActiveTextColor=255,255,255,255
-InactiveTextColor=150,150,150,255
+InactiveTextColor=0,0,0,255
 UseTextShadow=True
 TextShadowOffsetY=2
 TextShadowOffsetX=2

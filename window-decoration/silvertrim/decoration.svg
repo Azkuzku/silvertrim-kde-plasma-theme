@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="3.1205345"
-     inkscape:cx="10.094425"
-     inkscape:cy="8.8125928"
+     inkscape:zoom="2.2733031"
+     inkscape:cx="42.449246"
+     inkscape:cy="48.167797"
      inkscape:window-width="1366"
      inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="decoration-maximized-center"
+     inkscape:current-layer="layer2"
      showborder="true">
     <inkscape:grid
        id="grid1"
@@ -956,14 +956,5 @@
        xlink:href="#decoration-inactive-right"
        id="decoration-inactive-left"
        transform="matrix(-1,0,0,1,229.99999,0)" />
-    <rect
-       style="fill-opacity:1;stroke-width:0.919689;-inkscape-stroke:none"
-       id="mask-top"
-       width="28"
-       height="19.999998"
-       x="-39"
-       y="-159.99998"
-       transform="rotate(90)"
-       inkscape:label="mask-top" />
   </g>
 </svg>

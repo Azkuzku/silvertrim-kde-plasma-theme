@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.74569104"
-     inkscape:cx="-178.35805"
-     inkscape:cy="292.34628"
+     inkscape:zoom="5.2828899"
+     inkscape:cx="5.5840649"
+     inkscape:cy="25.080969"
      inkscape:window-width="1366"
-     inkscape:window-height="761"
+     inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -300,11 +300,11 @@
      id="g15">
     <path
        id="path13"
-       style="opacity:1;fill:url(#linearGradient4);stroke:#525252;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient4);stroke:#181818;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
        d="M 6.2600312,6.8135982 4.8089047,5.437287 1.4055345,10.478821 Z"
        sodipodi:nodetypes="cccc" />
     <path
-       style="opacity:1;fill:url(#linearGradient7);stroke:#b70000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient7);stroke:#380000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="path14"
        width="4"
        height="5"
@@ -315,7 +315,7 @@
        d="m 4.79375,0 h 2.4125 A 0.79374998,0.79374998 45 0 1 8,0.79374998 V 5 H 4 V 0.79374998 A 0.79374998,0.79374998 135 0 1 4.79375,0 Z"
        transform="matrix(-0.72556318,-0.68815556,-0.68815556,0.72556318,14.01678,5.9009968)" />
     <path
-       style="font-variation-settings:normal;opacity:1;fill:url(#linearGradient10);fill-opacity:1;stroke:#b70000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       style="font-variation-settings:normal;opacity:1;fill:url(#linearGradient10);fill-opacity:1;stroke:#380000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        id="path15"
        width="8"
        height="1"

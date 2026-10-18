@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.354675"
-     inkscape:cx="22.783829"
-     inkscape:cy="18.021635"
-     inkscape:window-width="1280"
-     inkscape:window-height="950"
+     inkscape:zoom="1.6534171"
+     inkscape:cx="-105.53901"
+     inkscape:cy="52.920707"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -188,48 +188,25 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter10"
-       x="-0.13335186"
-       y="-0.1268948"
-       width="1.2450978"
-       height="1.2332258">
+       id="filter3"
+       x="-0.14322663"
+       y="-0.1365642"
+       width="1.2605752"
+       height="1.2484492">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.36374237"
-         id="feGaussianBlur10" />
+         stdDeviation="0.40693413"
+         id="feGaussianBlur3" />
     </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     style="mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.0626;stroke-opacity:1;filter:url(#filter10)"
-     transform="matrix(0.94094483,0,0,0.94123357,0.35695401,0.45579082)">
+     id="g10"
+     transform="matrix(0.94094483,0,0,0.94123357,0.35695401,0.57970178)"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.0626;filter:url(#filter3)">
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.425039;stroke-linejoin:round;stroke-opacity:1"
-       id="rect6"
-       width="1.6926209"
-       height="5.0779986"
-       x="-0.39643922"
-       y="9.8233719"
-       transform="matrix(0.7385876,-0.67415751,0.6739418,0.73878444,0,0)" />
-    <ellipse
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.850079;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="path1"
-       cx="0.44987118"
-       cy="6.4380393"
-       transform="matrix(0.7385876,-0.67415751,0.6739418,0.73878444,0,0)"
-       rx="3.3852417"
-       ry="3.3853323" />
-  </g>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="g10"
-     transform="matrix(0.94094483,0,0,0.94123357,0.35695401,0.08011114)"
-     style="stroke-width:1.0626">
-    <rect
-       style="fill:url(#linearGradient8);stroke:#242424;stroke-width:0.425039;stroke-linejoin:round;stroke-opacity:1"
        id="rect10"
        width="1.6926209"
        height="5.0779986"
@@ -237,8 +214,39 @@
        y="9.8233719"
        transform="matrix(0.7385876,-0.67415751,0.6739418,0.73878444,0,0)" />
     <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.955458;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1"
+       cx="0.44987118"
+       cy="6.4380393"
+       transform="matrix(0.73858761,-0.67415751,0.67394181,0.73878443,0,0)"
+       rx="3.8048882"
+       ry="3.8049901" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g3"
+     transform="matrix(0.94094483,0,0,0.94123357,0.35695401,0.08011114)"
+     style="display:inline;stroke-width:1.0626">
+    <rect
+       style="fill:url(#linearGradient8);stroke:#000000;stroke-width:0.425039;stroke-linejoin:round;stroke-opacity:1"
+       id="rect1"
+       width="1.6926209"
+       height="5.0779986"
+       x="-0.39643922"
+       y="9.8233719"
+       transform="matrix(0.7385876,-0.67415751,0.6739418,0.73878444,0,0)" />
+    <ellipse
+       style="fill:none;fill-opacity:0.372146;stroke:#000000;stroke-width:0.955458;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse2"
+       cx="0.44987118"
+       cy="6.4380393"
+       transform="matrix(0.73858761,-0.67415751,0.67394181,0.73878443,0,0)"
+       rx="3.8048882"
+       ry="3.8049901" />
+    <ellipse
        style="fill:url(#linearGradient2);stroke:url(#linearGradient5);stroke-width:0.850079;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="ellipse10"
+       id="ellipse3"
        cx="0.44987118"
        cy="6.4380393"
        transform="matrix(0.7385876,-0.67415751,0.6739418,0.73878444,0,0)"

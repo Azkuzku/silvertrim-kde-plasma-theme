@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.5922025"
-     inkscape:cx="-5.3385169"
-     inkscape:cy="90.126727"
+     inkscape:zoom="0.24327975"
+     inkscape:cx="-643.29233"
+     inkscape:cy="-113.03859"
      inkscape:window-width="1366"
      inkscape:window-height="696"
      inkscape:window-x="0"
@@ -86,7 +86,7 @@
      transform="matrix(0.09064798,0,0,0.09064798,11.016658,12.335775)"
      style="stroke-width:11.0317"><g
        id="g1"
-       transform="matrix(0.22340604,0,0,0.22410833,-59.319099,-103.13926)"
+       transform="matrix(0.23562073,0,0,0.23636142,-63.227801,-109.11877)"
        style="stroke-width:13.0446"><rect
          ry="291"
          height="976"
@@ -97,7 +97,7 @@
          y="0"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.4417;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4)" /></g><g
        id="g4"
-       transform="matrix(0.22340604,0,0,0.22410833,-59.319099,-116.37487)"
+       transform="matrix(0.23562073,0,0,0.23636142,-63.227801,-123.07803)"
        style="stroke-width:13.0446"><rect
          ry="291"
          height="976"
@@ -112,4 +112,4 @@
          stroke-width="53"
          fill="none"
          id="path4"
-         style="stroke:#ffffff;stroke-width:55.36625782;stroke-dasharray:none;stroke-opacity:1" /></g></g></svg>
+         style="stroke:#ffffff;stroke-width:55.3663;stroke-dasharray:none;stroke-opacity:1" /></g></g></svg>

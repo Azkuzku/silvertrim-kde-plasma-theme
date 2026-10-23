@@ -27,5 +27,4 @@ theme=__aurorae__svg__silvertrim
 name=silvertrim-plasma
 
 [KSplash]
-Engine=none
-Theme=None
+Theme=silvertrim

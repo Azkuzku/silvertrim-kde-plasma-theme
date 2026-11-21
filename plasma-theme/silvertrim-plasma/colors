@@ -85,7 +85,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=0,0,0
+BackgroundAlternate=255,255,255
 BackgroundNormal=0,0,0
 ForegroundInactive=60,60,60
 ForegroundLink=29,153,243
